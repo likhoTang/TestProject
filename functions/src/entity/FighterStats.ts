@@ -15,7 +15,7 @@ export interface FighterStats {
 export interface FightRecord {
     win: FinishingMethodCount
     loss: FinishingMethodCount
-    noCcontest: FinishingMethodCount
+    noContest: FinishingMethodCount
     totalFights: number
     bounseTimes: number
     missedWeightTimes: number
