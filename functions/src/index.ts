@@ -31,13 +31,13 @@ exports.getScheduledFight = functions.https.onRequest(async (req, res) => {
 
     var result = {
         scheduledFight: sheduledFight,
-        homeStats: fighterStatsHome,
-        awayStats: fighterStatsAway,
         interestingPoints: {
             home: interestingPointHome,
             away: interestingPointAway
         },
-        commonOpponent: commonOpponentRecords
+        commonOpponent: commonOpponentRecords,
+        homeStats: fighterStatsHome,
+        awayStats: fighterStatsAway,
     }
 
     res.status(200).json(result)
