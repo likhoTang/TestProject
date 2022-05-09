@@ -1,0 +1,5068 @@
+{
+   "data":{
+      "id":"1613",
+      "type":"fighter",
+      "attributes":{
+         "name":"Charles \"do Bronx\" Oliveira",
+         "first_name":"Charles",
+         "last_name":"Oliveira",
+         "middle_name":null,
+         "nickname":"do Bronx",
+         "nickname_position":"middle",
+         "given_name":null,
+         "short_name":"Charles Oliveira",
+         "nationality":"BR",
+         "nationality_country":"Brazil",
+         "current_location":"Houston, Texas",
+         "current_location_country":"US",
+         "current_location_state":"TX",
+         "current_location_city":"Houston",
+         "current_location_lng":-95.3694,
+         "current_location_lat":29.7602,
+         "birth_location":"Guaruja, Sao Paulo, Brazil",
+         "date_of_birth":"1989-10-17",
+         "date_of_death":null,
+         "age_in_years":32,
+         "gender":"Male",
+         "reach_in_cm":188.0,
+         "reach_in_inches":74.0,
+         "reach_formatted":"74.0\" (188cm)",
+         "height_in_cm":178.0,
+         "height_in_inches":70.1,
+         "height_formatted":"5'10\" (178cm)",
+         "current_weight_class":"Lightweight",
+         "twitter_url":"https://www.twitter.com/charlesdobronxs",
+         "facebook_url":"https://www.facebook.com/pages/charles-do-bronx-oliveira/131846923513387",
+         "instagram_url":"https://instagram.com/charlesdobronxs/",
+         "wikipedia_url":"http://en.wikipedia.org/wiki/Charles_Oliveira",
+         "sherdog_url":"http://www.sherdog.com/fighter/charles-oliveira-30300",
+         "mma_com_url":"https://fighters.mixedmartialarts.com/charles-oliveira:d8f9346a03215d16",
+         "promoter_url":"https://www.ufc.com/athlete/charles-oliveira",
+         "ufc_stats_url":"http://www.ufcstats.com/fighter-details/07225ba28ae309b6",
+         "odds_url":"https://www.bestfightodds.com/fighters/charles-oliveira-1893",
+         "pro_wins":32,
+         "pro_losses":8,
+         "pro_draws":0,
+         "pro_no_contests":1,
+         "amateur_wins":1,
+         "amateur_losses":0,
+         "amateur_draws":0,
+         "amateur_no_contests":0,
+         "has_valid_chart_bouts?":true,
+         "stats":{
+            "overall":{
+               "pro_win":{
+                  "tko":9,
+                  "sub":20,
+                  "dec":3,
+                  "dis":0
+               },
+               "pro_loss":{
+                  "tko":4,
+                  "sub":3,
+                  "dec":1,
+                  "dis":0
+               },
+               "amateur_win":{
+                  "tko":0,
+                  "sub":1,
+                  "dec":0,
+                  "dis":0
+               },
+               "amateur_loss":{
+                  "tko":0,
+                  "sub":0,
+                  "dec":0,
+                  "dis":0
+               }
+            },
+            "promotion":{
+               "Ultimate Fighting Championship":{
+                  "acronym":"UFC",
+                  "major":true,
+                  "regional_rankings_tier":4,
+                  "pro_win":20,
+                  "pro_loss":8,
+                  "pro_draw":0,
+                  "pro_no_contest":1,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0,
+                  "fotn_awards":3,
+                  "kotn_awards":0,
+                  "sotn_awards":3,
+                  "potn_awards":11
+               },
+               "Warrior Challenge":{
+                  "acronym":"WC",
+                  "major":false,
+                  "regional_rankings_tier":0,
+                  "pro_win":2,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0,
+                  "fotn_awards":0,
+                  "kotn_awards":0,
+                  "sotn_awards":0,
+                  "potn_awards":0
+               },
+               "Ring of Combat":{
+                  "acronym":"ROC",
+                  "major":false,
+                  "regional_rankings_tier":0,
+                  "pro_win":1,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0,
+                  "fotn_awards":0,
+                  "kotn_awards":0,
+                  "sotn_awards":0,
+                  "potn_awards":0
+               },
+               "Jungle Fight Championship":{
+                  "acronym":"JFC",
+                  "major":false,
+                  "regional_rankings_tier":0,
+                  "pro_win":1,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0,
+                  "fotn_awards":0,
+                  "kotn_awards":0,
+                  "sotn_awards":0,
+                  "potn_awards":0
+               },
+               "Predador Fight Championship":{
+                  "acronym":"PFC",
+                  "major":false,
+                  "regional_rankings_tier":0,
+                  "pro_win":3,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0,
+                  "fotn_awards":0,
+                  "kotn_awards":0,
+                  "sotn_awards":0,
+                  "potn_awards":0
+               }
+            },
+            "tier":{
+               "majors":{
+                  "pro_win":20,
+                  "pro_loss":8,
+                  "pro_draw":0,
+                  "pro_no_contest":1,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "minors":{
+                  "pro_win":12,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":1,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               }
+            },
+            "year":{
+               "2021":{
+                  "pro_win":2,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2020":{
+                  "pro_win":2,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2019":{
+                  "pro_win":3,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2018":{
+                  "pro_win":3,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2017":{
+                  "pro_win":1,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2016":{
+                  "pro_win":0,
+                  "pro_loss":2,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2015":{
+                  "pro_win":2,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2014":{
+                  "pro_win":3,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2013":{
+                  "pro_win":0,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2012":{
+                  "pro_win":2,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2011":{
+                  "pro_win":0,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":1,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2010":{
+                  "pro_win":4,
+                  "pro_loss":1,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2009":{
+                  "pro_win":4,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2008":{
+                  "pro_win":6,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":0,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               },
+               "2007":{
+                  "pro_win":0,
+                  "pro_loss":0,
+                  "pro_draw":0,
+                  "pro_no_contest":0,
+                  "amateur_win":1,
+                  "amateur_loss":0,
+                  "amateur_draw":0,
+                  "amateur_no_contest":0
+               }
+            }
+         }
+      },
+      "relationships":{
+         "fighter_bouts":{
+            "data":[
+               {
+                  "id":"1259259",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1192181",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1139231",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45599",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45582",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45577",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"3178",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1120079",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1074426",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1034087",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"1021925",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"959552",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"49315",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"966549",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"68387",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"84538",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"108572",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"914755",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"867573",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"847771",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"810399",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"787289",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"764787",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"668848",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"589196",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"739297",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"556664",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"451332",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"379624",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"525530",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"410559",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"47646",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45635",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45619",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"295297",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"324089",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"274218",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"212545",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"181201",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"130938",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"238099",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"219445",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"61411",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"81194",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45647",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45643",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45633",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45627",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45613",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45591",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"45585",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"68211",
+                  "type":"fighter_bout"
+               },
+               {
+                  "id":"6302",
+                  "type":"fighter_bout"
+               }
+            ]
+         }
+      },
+      "links":{
+         "url":"https://www.tapology.com/fightcenter/fighters/charles-oliveira-do-bronx"
+      }
+   },
+   "included":[
+      {
+         "id":"1259259",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Justin Gaethje",
+            "event_name":"UFC 274",
+            "event_subname":"Oliveira vs. Gaethje",
+            "event_date":"2022-05-07",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Arizona",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":"UFC Lightweight Championship",
+            "title_status":"Champion",
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Event",
+            "number_at_event":15,
+            "record_before_bout":"32-8-0",
+            "record_before_bout_opponent":"23-3-0",
+            "betting_odds":"-165",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"5-5-5-5-5",
+            "number_of_rounds":5,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"85253",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"16421",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/630542-ufc-274-charles-do-bronx-oliveira-vs-justin-the-highlight-gaethje",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/85253-ufc-274",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16421-justin-gaethje",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1192181",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Dustin Poirier",
+            "event_name":"UFC 269",
+            "event_subname":"Oliveira vs. Poirier",
+            "event_date":"2021-12-11",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Nevada",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":"UFC Lightweight Championship",
+            "title_status":"Champion",
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Event",
+            "number_at_event":14,
+            "record_before_bout":"31-8-0",
+            "record_before_bout_opponent":"28-6-0",
+            "betting_odds":"+115",
+            "betting_odds_described":"Near Even",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Herb Dean",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5-5-5",
+            "number_of_rounds":5,
+            "final_round":3,
+            "final_round_time":"1:02",
+            "total_fight_time":"11:02",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "5886044":{
+                  "name":"Best MMA Fight of the Year for 2021",
+                  "position":29,
+                  "url":"https://www.tapology.com/rankings/4152-2021-mma-fights-of-the-year"
+               },
+               "5886046":{
+                  "name":"Best MMA Submission of the Year 2021",
+                  "position":13,
+                  "url":"https://www.tapology.com/rankings/4154-2021-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"81603",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"9008",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/597000-ufc-269-charles-do-bronx-oliveira-vs-dustin-the-diamond-poirier",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/81603-ufc-fight-night",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/dustin-poirier-the-diamond",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1120079",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Michael Chandler",
+            "event_name":"UFC 262",
+            "event_subname":"Oliveira vs. Chandler",
+            "event_date":"2021-05-15",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Texas",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":"UFC Vacant Lightweight Championship",
+            "title_status":"Vacant",
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Event",
+            "number_at_event":12,
+            "record_before_bout":"30-8-0",
+            "record_before_bout_opponent":"22-5-0",
+            "betting_odds":"-130",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Dan Miragliotta",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Left Hook to Ground & Pound",
+            "round_structure":"5-5-5-5-5",
+            "number_of_rounds":5,
+            "final_round":2,
+            "final_round_time":"0:19",
+            "total_fight_time":"5:19",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$75,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "5545656":{
+                  "name":"Best MMA Fight of the Year for 2021",
+                  "position":4,
+                  "url":"https://www.tapology.com/rankings/4152-2021-mma-fights-of-the-year"
+               },
+               "5545655":{
+                  "name":"Best MMA Knockout of the Year 2021",
+                  "position":11,
+                  "url":"https://www.tapology.com/rankings/4153-2021-greatest-mma-knockouts"
+               },
+               "5546592":{
+                  "name":"Greatest Comeback of All Time",
+                  "position":46,
+                  "url":"https://www.tapology.com/rankings/37-all-time-greatest-mma-comebacks"
+               },
+               "5548669":{
+                  "name":"Greatest Lightweight MMA Fight of All Time",
+                  "position":26,
+                  "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"77263",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"923",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/560948-ufc-262-charles-do-bronx-oliveira-vs-iron-michael-chandler",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/77263-ufc-fight-night",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/mike-chandler",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1074426",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Tony Ferguson",
+            "event_name":"UFC 256",
+            "event_subname":"Figueiredo vs. Moreno",
+            "event_date":"2020-12-12",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Nevada",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":9,
+            "record_before_bout":"29-8-0",
+            "record_before_bout_opponent":"25-4-0",
+            "betting_odds":"+140",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Mark Smith",
+            "rematch_series":null,
+            "weigh_in_lb":154.5,
+            "weigh_in_kg":70.08,
+            "weigh_in_formatted":"154.5 lbs (70.1 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Decision",
+            "finishing_move":"Unanimous",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"5:00",
+            "total_fight_time":"15:00",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"71960",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"4886",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/538121-ufc-256-tony-el-cucuy-ferguson-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/71960-ufc-256",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/tony-ferguson-el-cucuy",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1034087",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Beneil Dariush",
+            "event_name":"UFC Fight Night",
+            "event_subname":"Holm vs. Aldana",
+            "event_date":"2020-10-03",
+            "event_venue_location_country":"AE",
+            "event_country_flag_path":"flags/AE.gif",
+            "event_geo_coded_region_name":"United Arab Emirates",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"cancelled",
+            "cancellation_reason":"Oliveira Withdrew",
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":null,
+            "record_before_bout":"29-8-0",
+            "record_before_bout_opponent":"19-4-1",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"71155",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"20010",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/517952-ufc-fight-night-charles-do-bronx-oliveira-vs-beneil-benny-dariush",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/71155-ufc-fight-night",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/20010-beneil-dariush-benny",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1021925",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Gabriel Rollo",
+            "event_name":"BJJ Stars",
+            "event_subname":null,
+            "event_date":"2020-07-25",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"BJJ Stars",
+            "promotion_acronym":"BJJS",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/2745/icon_bw/BJJ_Stars-logo-sq.png?1551710135",
+            "status":"cancelled",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"Grappling",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":null,
+            "record_before_bout":"29-8-0",
+            "record_before_bout_opponent":"0-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"",
+            "number_of_rounds":null,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"70954",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"214306",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/511871-bjj-stars-charles-do-bronx-oliveira-vs-gabriel-rollo",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/70954-bjj-stars",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/214306-gabriel-rollo",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"959552",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Kevin Lee",
+            "event_name":"UFC on ESPN+ 28",
+            "event_subname":"Lee vs. Oliveira",
+            "event_date":"2020-03-14",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Distrito Federal",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Event",
+            "number_at_event":12,
+            "record_before_bout":"28-8-0",
+            "record_before_bout_opponent":"18-5-0",
+            "betting_odds":"+120",
+            "betting_odds_described":"Near Even",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Mike Beltran",
+            "rematch_series":null,
+            "weigh_in_lb":156.0,
+            "weigh_in_kg":70.76,
+            "weigh_in_formatted":"156.0 lbs (70.8 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5-5-5",
+            "number_of_rounds":5,
+            "final_round":3,
+            "final_round_time":"0:28",
+            "total_fight_time":"10:28",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "5218953":{
+                  "name":"Best MMA Submission of the Year 2020",
+                  "position":1,
+                  "url":"https://www.tapology.com/rankings/3817-2020-greatest-mma-submissions"
+               },
+               "5218958":{
+                  "name":"Best MMA Fight of the Year for 2020",
+                  "position":19,
+                  "url":"https://www.tapology.com/rankings/3815-2020-mma-fights-of-the-year"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"64600",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"23860",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/480680-ufc-on-espn-28-kevin-motown-phenom-lee-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/64600-ufc-on-espn-26",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/23860-kevin-lee",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"966549",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Lucas Barros",
+            "event_name":"SFT 20",
+            "event_subname":"Battle of Olympus",
+            "event_date":"2020-01-25",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Standout Fighting Tournament",
+            "promotion_acronym":"SFT",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/704/icon_bw/Standout_Fighting_Tournament-logo-sq.jpg?1603119352",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"176 lbs",
+            "scheduled_weight":"176 lbs (80.0 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"Grappling",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":7,
+            "record_before_bout":"28-8-0",
+            "record_before_bout_opponent":"0-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":"Fernando Tererê",
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Decision",
+            "finishing_move":"Points",
+            "round_structure":"10 min one round",
+            "number_of_rounds":1,
+            "final_round":1,
+            "final_round_time":"10:00",
+            "total_fight_time":"10:00",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"65405",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"252579",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/484179-sft-20-charles-do-bronx-oliveira-vs-lucas-barros",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/65405-sft-20",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/252579-lucas-barros",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"914755",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jared Gordon",
+            "event_name":"UFC on ESPN+ 22",
+            "event_subname":"Blachowicz vs. Jacare",
+            "event_date":"2019-11-16",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":10,
+            "record_before_bout":"27-8-0",
+            "record_before_bout_opponent":"15-3-0",
+            "betting_odds":"-375",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Osiris Maia",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Overhand Right & Uppercut",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"1:26",
+            "total_fight_time":"1:26",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"60323",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"17754",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/458282-ufc-on-espn-22-charles-do-bronx-oliveira-vs-jared-flash-gordon",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/60323-ufc-on-espn-21",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/17754-jared-gordon",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"847771",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Nik Lentz",
+            "event_name":"UFC on ESPN+ 10",
+            "event_subname":"Dos Anjos vs. Lee",
+            "event_date":"2019-05-18",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"New York",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":9,
+            "record_before_bout":"26-8-0",
+            "record_before_bout_opponent":"30-9-2",
+            "betting_odds":"-365",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Todd Anderson",
+            "rematch_series":"III",
+            "weigh_in_lb":154.2,
+            "weigh_in_kg":69.94,
+            "weigh_in_formatted":"154.2 lbs (69.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Right Cross to Ground & Pound",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"2:11",
+            "total_fight_time":"7:11",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"57509",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"622",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/424790-ufc-on-espn-9-charles-do-bronx-oliveira-vs-nik-the-carnie-lentz-ii",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/57509-ufc-on-espn-9",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/nik-lentz-the-carnie",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"810399",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"David Teymur",
+            "event_name":"UFC on ESPN+ 2",
+            "event_subname":"Assunção vs. Moraes 2",
+            "event_date":"2019-02-02",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Brazil",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":10,
+            "record_before_bout":"25-8-0",
+            "record_before_bout_opponent":"8-1-0",
+            "betting_odds":"-125",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Jerin Valel",
+            "rematch_series":null,
+            "weigh_in_lb":154.5,
+            "weigh_in_kg":70.08,
+            "weigh_in_formatted":"154.5 lbs (70.1 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Anaconda Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"0:55",
+            "total_fight_time":"5:55",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "4483524":{
+                  "name":"Best MMA Fight of the Year for 2019",
+                  "position":21,
+                  "url":"https://www.tapology.com/rankings/3583-2019-mma-fights-of-the-year"
+               },
+               "4483543":{
+                  "name":"Best MMA Submission of the Year 2019",
+                  "position":3,
+                  "url":"https://www.tapology.com/rankings/3581-2019-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"56348",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"56068",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/406104-ufc-on-espn-2-charles-do-bronx-oliveira-vs-david-teymur",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/56348-ufc-fight-night-144",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/56068-david-teymur",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"787289",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jim Miller",
+            "event_name":"UFC on FOX 31",
+            "event_subname":"Lee vs. Iaquinta 2",
+            "event_date":"2018-12-15",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Wisconsin",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":9,
+            "record_before_bout":"24-8-0",
+            "record_before_bout_opponent":"29-12-0",
+            "betting_odds":"-320",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Keith Peterson",
+            "rematch_series":"II",
+            "weigh_in_lb":152.0,
+            "weigh_in_kg":68.95,
+            "weigh_in_formatted":"152.0 lbs (68.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"1:15",
+            "total_fight_time":"1:15",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$230,000 ($90K Base, $90K Bonus, $50K Perf/Night)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"54138",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"32",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/394549-ufc-on-fox-31-charles-do-bronx-oliveira-vs-jim-a-10-miller-ii",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/54138-ufc-fight-night-143",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/jim-miller",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"764787",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Christos Giagos",
+            "event_name":"UFC Fight Night 137",
+            "event_subname":"Santos vs. Anders",
+            "event_date":"2018-09-22",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":9,
+            "record_before_bout":"23-8-0",
+            "record_before_bout_opponent":"15-6-0",
+            "betting_odds":"-450",
+            "betting_odds_described":"Heavy Favorite",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"Jerin Valel",
+            "rematch_series":null,
+            "weigh_in_lb":153.9,
+            "weigh_in_kg":69.81,
+            "weigh_in_formatted":"153.9 lbs (69.8 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"3:22",
+            "total_fight_time":"8:22",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               "4226210":{
+                  "name":"Best MMA Submission of the Year 2018",
+                  "position":46,
+                  "url":"https://www.tapology.com/rankings/3365-2018-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"53984",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"38606",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/383297-ufc-fight-night-137-charles-do-bronx-oliveira-vs-christos-the-spartan-giagos",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/53984-ufc-fight-night-137",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/38606-christos-giagos-the-spartan",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"739297",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Clay Guida",
+            "event_name":"UFC 225",
+            "event_subname":"Whittaker vs. Romero 2",
+            "event_date":"2018-06-09",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Illinois",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":2,
+            "record_before_bout":"22-8-0",
+            "record_before_bout_opponent":"34-17-0",
+            "betting_odds":"-140",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"Herb Dean",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"2:18",
+            "total_fight_time":"2:18",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "3865741":{
+                  "name":"Best MMA Submission of the Year 2018",
+                  "position":31,
+                  "url":"https://www.tapology.com/rankings/3365-2018-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"50751",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"214",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/370552-ufc-225-charles-do-bronx-oliveira-vs-clay-the-carpenter-guida",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/50751-ufc-225",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/clay-guida-the-carpenter",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"668848",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Paul Felder",
+            "event_name":"UFC 218",
+            "event_subname":"Holloway vs. Aldo 2",
+            "event_date":"2017-12-02",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Michigan",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":8,
+            "record_before_bout":"22-7-0",
+            "record_before_bout_opponent":"14-3-0",
+            "betting_odds":"-130",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"Dan Miragliotta",
+            "rematch_series":null,
+            "weigh_in_lb":154.5,
+            "weigh_in_kg":70.08,
+            "weigh_in_formatted":"154.5 lbs (70.1 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Ground & Pound",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"4:06",
+            "total_fight_time":"9:06",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"47255",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"19266",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/335323-ufc-218-paul-the-irish-dragon-felder-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/47255-ufc-218",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/19266-paul-felder",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"589196",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Will Brooks",
+            "event_name":"UFC 210",
+            "event_subname":"Cormier vs. Johnson 2",
+            "event_date":"2017-04-08",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"New York",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":9,
+            "record_before_bout":"21-7-0",
+            "record_before_bout_opponent":"18-2-0",
+            "betting_odds":"+180",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"John McCarthy",
+            "rematch_series":null,
+            "weigh_in_lb":152.8,
+            "weigh_in_kg":69.31,
+            "weigh_in_formatted":"152.8 lbs (69.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"2:30",
+            "total_fight_time":"2:30",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "3158114":{
+                  "name":"Best MMA Submission of the Year 2017",
+                  "position":17,
+                  "url":"https://www.tapology.com/rankings/3207-2017-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"43812",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"14206",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/295497-ufc-210-ill-will-brooks-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/43812-ufc-210",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/14206-will-brooks-ill",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"556664",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Ricardo Lamas",
+            "event_name":"UFC Fight Night 98",
+            "event_subname":"Dos Anjos vs. Ferguson",
+            "event_date":"2016-11-05",
+            "event_venue_location_country":"MX",
+            "event_country_flag_path":"flags/MX.gif",
+            "event_geo_coded_region_name":"Mexico",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Catchweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":11,
+            "record_before_bout":"21-6-0",
+            "record_before_bout_opponent":"16-5-0",
+            "betting_odds":"-115",
+            "betting_odds_described":"Near Even",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Jerin Valel",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"2:13",
+            "total_fight_time":"7:13",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"41075",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"383",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/279230-ufc-fight-night-98-ricardo-the-bully-lamas-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/41075-ufc-fight-night",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/ricardo-lamas-the-bully",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"525530",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Anthony Pettis",
+            "event_name":"UFC on FOX 21",
+            "event_subname":"Maia vs. Condit",
+            "event_date":"2016-08-27",
+            "event_venue_location_country":"CA",
+            "event_country_flag_path":"flags/CA.gif",
+            "event_geo_coded_region_name":"British Columbia",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":9,
+            "record_before_bout":"21-5-0",
+            "record_before_bout_opponent":"18-5-0",
+            "betting_odds":"+145",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Yves Lavigne",
+            "rematch_series":null,
+            "weigh_in_lb":143.0,
+            "weigh_in_kg":64.86,
+            "weigh_in_formatted":"143.0 lbs (64.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"1:49",
+            "total_fight_time":"11:49",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               "2826020":{
+                  "name":"Best MMA Submission of the Year 2016",
+                  "position":15,
+                  "url":"https://www.tapology.com/rankings/3041-2016-greatest-mma-submissions"
+               },
+               "5311942":{
+                  "name":"Greatest Submission of All Time",
+                  "position":95,
+                  "url":"https://www.tapology.com/rankings/all-time-greatest-submissions-in-mma-and-ufc-history"
+               },
+               "2826062":{
+                  "name":"Best MMA Fight of the Year for 2016",
+                  "position":44,
+                  "url":"https://www.tapology.com/rankings/3039-2016-mma-fights-of-the-year"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"40403",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"81",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/263629-ufc-on-fox-21-anthony-showtime-pettis-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/40403-ufc-on-fox-21",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/anthony-pettis-showtime",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"451332",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Myles Jury",
+            "event_name":"UFC on FOX 17",
+            "event_subname":"Dos Anjos vs. Cowboy 2",
+            "event_date":"2015-12-19",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Florida",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":9,
+            "record_before_bout":"20-5-0",
+            "record_before_bout_opponent":"15-1-0",
+            "betting_odds":"+145",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"John Hosegood",
+            "rematch_series":null,
+            "weigh_in_lb":150.5,
+            "weigh_in_kg":68.27,
+            "weigh_in_formatted":"150.5 lbs (68.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"3:05",
+            "total_fight_time":"3:05",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$66,600 ($29,600 Base, $37K Bonus)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "2326229":{
+                  "name":"Best MMA Submission of the Year 2015",
+                  "position":31,
+                  "url":"https://www.tapology.com/rankings/2645-2015-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"34696",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"11278",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/226464-ufc-on-fox-17-myles-the-fury-jury-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/34696-ufc-on-fox-17",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/11278-myles-jury-the-fury",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"410559",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Max Holloway",
+            "event_name":"UFC Fight Night 74",
+            "event_subname":"Holloway vs. Oliveira",
+            "event_date":"2015-08-23",
+            "event_venue_location_country":"CA",
+            "event_country_flag_path":"flags/CA.gif",
+            "event_geo_coded_region_name":"Saskatchewan",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Event",
+            "number_at_event":12,
+            "record_before_bout":"20-4-0",
+            "record_before_bout_opponent":"13-3-0",
+            "betting_odds":"+200",
+            "betting_odds_described":"Moderate Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Herb Dean",
+            "rematch_series":null,
+            "weigh_in_lb":145.5,
+            "weigh_in_kg":66.0,
+            "weigh_in_formatted":"145.5 lbs (66.0 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Neck/Shoulder Injury",
+            "round_structure":"5-5-5-5-5",
+            "number_of_rounds":5,
+            "final_round":1,
+            "final_round_time":"1:39",
+            "total_fight_time":"1:39",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"33357",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"12723",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/205665-ufc-fight-night-74-max-blessed-holloway-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/33357-ufc-fight-night-74-holloway-vs-oliveira",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/12723-max-holloway-lil-evil",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"379624",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Nik Lentz",
+            "event_name":"UFC Fight Night 67",
+            "event_subname":"Condit vs. Alves",
+            "event_date":"2015-05-30",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Goias",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":11,
+            "record_before_bout":"19-4-0",
+            "record_before_bout_opponent":"25-6-2",
+            "betting_odds":"-260",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Kevin MacDonald",
+            "rematch_series":"II",
+            "weigh_in_lb":144.0,
+            "weigh_in_kg":65.32,
+            "weigh_in_formatted":"144.0 lbs (65.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Guillotine Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"1:10",
+            "total_fight_time":"11:10",
+            "disputed":false,
+            "fight_of_the_night":true,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$100,000 ($50K Fight/Night, $50K Perf/Night)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "1588945":{
+                  "name":"Best MMA Submission of the Year 2015",
+                  "position":15,
+                  "url":"https://www.tapology.com/rankings/2645-2015-greatest-mma-submissions"
+               },
+               "1588942":{
+                  "name":"Best MMA Fight of the Year for 2015",
+                  "position":19,
+                  "url":"https://www.tapology.com/rankings/2643-2015-mma-fights-of-the-year"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"30066",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"622",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/189901-ufc-fight-night-67-charles-do-bronx-oliveira-vs-nik-the-carnie-lentz-ii",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/30066-ufc-fight-night-67",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/nik-lentz-the-carnie",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"324089",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jeremy Stephens",
+            "event_name":"The Ultimate Fighter 20 Finale",
+            "event_subname":null,
+            "event_date":"2014-12-12",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Nevada",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":10,
+            "record_before_bout":"18-4-0",
+            "record_before_bout_opponent":"23-10-0",
+            "betting_odds":"+150",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Herb Dean",
+            "rematch_series":null,
+            "weigh_in_lb":146.5,
+            "weigh_in_kg":66.45,
+            "weigh_in_formatted":"146.5 lbs (66.5 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Decision",
+            "finishing_move":"Unanimous",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"5:00",
+            "total_fight_time":"15:00",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$54,000 ($27K Base, $27K Bonus)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"26091",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"36",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/162133-the-ultimate-fighter-20-finale-charles-do-bronx-oliveira-vs-jeremy-lil-heathen-stephens",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/26091-the-ultimate-fighter-20-finale",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/jeremy-stephens-lil-heathen",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"295297",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Nik Lentz",
+            "event_name":"UFC Fight Night 50",
+            "event_subname":"Jacare vs. Mousasi 2",
+            "event_date":"2014-09-05",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Connecticut",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"cancelled",
+            "cancellation_reason":"Oliveira Illness",
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":6,
+            "record_before_bout":"18-4-0",
+            "record_before_bout_opponent":"25-6-2",
+            "betting_odds":"-160",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":"II",
+            "weigh_in_lb":150.0,
+            "weigh_in_kg":68.04,
+            "weigh_in_formatted":"150.0 lbs (68.0 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"24825",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"622",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/147737-ufc-fight-night-50-charles-do-bronx-oliveira-vs-nik-the-carnie-lentz-ii",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/24825-ufc-fight-night-50",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/nik-lentz-the-carnie",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"274218",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Hatsu Hioki",
+            "event_name":"UFC Fight Night 43",
+            "event_subname":"Te Huna vs. Marquardt",
+            "event_date":"2014-06-28",
+            "event_venue_location_country":"NZ",
+            "event_country_flag_path":"flags/NZ.gif",
+            "event_geo_coded_region_name":"New Zealand",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":8,
+            "record_before_bout":"17-4-0",
+            "record_before_bout_opponent":"27-7-2",
+            "betting_odds":"-200",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":null,
+            "referee":"John Sharp",
+            "rematch_series":null,
+            "weigh_in_lb":145.0,
+            "weigh_in_kg":65.77,
+            "weigh_in_formatted":"145.0 lbs (65.8 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Modified Peruvian Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"4:32",
+            "total_fight_time":"9:32",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "62884":{
+                  "name":"Best MMA Submission of the Year 2014",
+                  "position":3,
+                  "url":"https://www.tapology.com/rankings/1353-2014-greatest-mma-submissions"
+               },
+               "63031":{
+                  "name":"Best MMA Fight of the Year for 2014",
+                  "position":38,
+                  "url":"https://www.tapology.com/rankings/1351-2014-mma-fights-of-the-year"
+               },
+               "64147":{
+                  "name":"Greatest Submission of All Time",
+                  "position":40,
+                  "url":"https://www.tapology.com/rankings/all-time-greatest-submissions-in-mma-and-ufc-history"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"23781",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"157",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/137197-ufc-fight-night-43-charles-do-bronx-oliveira-vs-hatsu-hioki",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/23781-ufc-fight-night-45-te-huna-vs-marquardt",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/hatsu-hioki",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"238099",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Andy Ogle",
+            "event_name":"UFC Fight Night 36",
+            "event_subname":"Machida vs. Mousasi",
+            "event_date":"2014-02-15",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Santa Catarina",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":8,
+            "record_before_bout":"16-4-0",
+            "record_before_bout_opponent":"9-3-0",
+            "betting_odds":"-640",
+            "betting_odds_described":"Huge Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Mario Yamasaki",
+            "rematch_series":null,
+            "weigh_in_lb":143.0,
+            "weigh_in_kg":64.86,
+            "weigh_in_formatted":"143.0 lbs (64.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Triangle Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"2:40",
+            "total_fight_time":"12:40",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":true,
+            "pay_breakdown":"$50,000 Perf/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "49305":{
+                  "name":"Best MMA Submission of the Year 2014",
+                  "position":20,
+                  "url":"https://www.tapology.com/rankings/1353-2014-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"20593",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"17534",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/119138-ufc-fight-night-36-charles-do-bronx-oliveira-vs-andy-the-little-axe-ogle",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/20593-ufc-fight-night",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/17534-andy-ogle",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"219445",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jeremy Larsen",
+            "event_name":"UFC 166",
+            "event_subname":"Velasquez vs. Dos Santos 3",
+            "event_date":"2013-10-19",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Texas",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"cancelled",
+            "cancellation_reason":"Oliveira Thigh Injury",
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":null,
+            "record_before_bout":"16-4-0",
+            "record_before_bout_opponent":"8-4-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"19525",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"3391",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/ufc-166-charles-do-bronx-oliveira-vs-jeremy-larsen",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/19525-ufc-166-velasquez-vs-dos-santos-3",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/3391-jeremy-larsen",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"212545",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Estevan Payan",
+            "event_name":"UFC 166",
+            "event_subname":"Velasquez vs. Dos Santos 3",
+            "event_date":"2013-10-19",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Texas",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"cancelled",
+            "cancellation_reason":"Payan Injury",
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":null,
+            "record_before_bout":"16-4-0",
+            "record_before_bout_opponent":"14-4-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":null,
+            "finishing_method":null,
+            "finishing_move":null,
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"19525",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"1713",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/ufc-166-charles-do-bronx-oliveira-vs-estevan-el-terrible-payan",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/19525-ufc-166-velasquez-vs-dos-santos-3",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/estevan-payan",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"181201",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Frankie Edgar",
+            "event_name":"UFC 162",
+            "event_subname":"Silva vs. Weidman",
+            "event_date":"2013-07-06",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Nevada",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":10,
+            "record_before_bout":"16-3-0",
+            "record_before_bout_opponent":"15-4-1",
+            "betting_odds":"+450",
+            "betting_odds_described":"Heavy Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Yves Lavigne",
+            "rematch_series":null,
+            "weigh_in_lb":144.0,
+            "weigh_in_kg":65.32,
+            "weigh_in_formatted":"144.0 lbs (65.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"Decision",
+            "finishing_move":"Unanimous",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"5:00",
+            "total_fight_time":"15:00",
+            "disputed":false,
+            "fight_of_the_night":true,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$71,000 ($21K Base, $50K Fight/Night)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "42188":{
+                  "name":"Best MMA Fight of the Year for 2013",
+                  "position":28,
+                  "url":"https://www.tapology.com/rankings/995-2013-mma-fights-of-the-year"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"17854",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"173",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/90680-ufc-162-frankie-the-answer-edgar-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/17854-ufc-162-silva-vs-weidman",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/frankie-edgar-the-answer",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"130938",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Cub Swanson",
+            "event_name":"UFC 152",
+            "event_subname":"Jones vs. Belfort",
+            "event_date":"2012-09-22",
+            "event_venue_location_country":"CA",
+            "event_country_flag_path":"flags/CA.gif",
+            "event_geo_coded_region_name":"Ontario",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Catchweight",
+            "scheduled_weight":"146 lbs (66.2 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":8,
+            "record_before_bout":"16-2-0",
+            "record_before_bout_opponent":"17-5-0",
+            "betting_odds":"-250",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Yves Lavigne",
+            "rematch_series":null,
+            "weigh_in_lb":146.4,
+            "weigh_in_kg":66.41,
+            "weigh_in_formatted":"146.4 lbs (66.4 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Punches",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"2:40",
+            "total_fight_time":"2:40",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":true,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               "30848":{
+                  "name":"Best MMA Knockout of the Year 2012",
+                  "position":36,
+                  "url":"https://www.tapology.com/rankings/39-2012-greatest-mma-knockouts"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"13140",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"85",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/65529-ufc-152-cub-swanson-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/13140-ufc-152",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/cub-swanson",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"108572",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jonathan Brookins",
+            "event_name":"The Ultimate Fighter 15 Finale",
+            "event_subname":null,
+            "event_date":"2012-06-01",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Nevada",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":8,
+            "record_before_bout":"15-2-0",
+            "record_before_bout_opponent":"13-4-0",
+            "betting_odds":"-205",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Kim Winslow",
+            "rematch_series":null,
+            "weigh_in_lb":144.0,
+            "weigh_in_kg":65.32,
+            "weigh_in_formatted":"144.0 lbs (65.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"D'Arce Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"2:42",
+            "total_fight_time":"7:42",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$32,000 ($16K Base, $16K Bonus)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "23193":{
+                  "name":"Best MMA Submission of the Year 2012",
+                  "position":30,
+                  "url":"https://www.tapology.com/rankings/40-2012-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"13061",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"709",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/54341-the-ultimate-fighter-15-finale-charles-do-bronx-oliveira-vs-jonathan-brookins",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/13061-the-ultimate-fighter-15-finale",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/jonathan-brookins",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"84538",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Eric Wisely",
+            "event_name":"UFC on FOX 2",
+            "event_subname":"Evans vs. Davis",
+            "event_date":"2012-01-28",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Illinois",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Featherweight",
+            "scheduled_weight":"145 lbs (65.8 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":4,
+            "record_before_bout":"14-2-0",
+            "record_before_bout_opponent":"19-6-0",
+            "betting_odds":"-550",
+            "betting_odds_described":"Heavy Favorite",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"John McCarthy",
+            "rematch_series":null,
+            "weigh_in_lb":144.0,
+            "weigh_in_kg":65.32,
+            "weigh_in_formatted":"144.0 lbs (65.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Calf Slicer",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"1:43",
+            "total_fight_time":"1:43",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":true,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$65,000 Sub/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "14478":{
+                  "name":"Greatest Submission of All Time",
+                  "position":23,
+                  "url":"https://www.tapology.com/rankings/all-time-greatest-submissions-in-mma-and-ufc-history"
+               },
+               "14463":{
+                  "name":"Best MMA Submission of the Year 2012",
+                  "position":5,
+                  "url":"https://www.tapology.com/rankings/40-2012-greatest-mma-submissions"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"11400",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"3869",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/42322-ufc-on-fox-2-charles-do-bronx-oliveira-vs-eric-little-lee-wisely",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/11400-ufc-on-fox-2",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/eric-wisely",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"68387",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Donald Cerrone",
+            "event_name":"UFC on Versus 5",
+            "event_subname":"Hardy vs. Lytle",
+            "event_date":"2011-08-14",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Wisconsin",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":10,
+            "record_before_bout":"14-1-0",
+            "record_before_bout_opponent":"15-3-0",
+            "betting_odds":"-120",
+            "betting_odds_described":"Near Even",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Mario Yamasaki",
+            "rematch_series":null,
+            "weigh_in_lb":155.0,
+            "weigh_in_kg":70.31,
+            "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"KO/TKO",
+            "finishing_move":"Strikes",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"3:01",
+            "total_fight_time":"3:01",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":true,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$12,000 Base",
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"9230",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"240",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/34243-ufc-on-versus-5-donald-cowboy-cerrone-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/ufc-on-versus-5",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/donald-cerrone-cowboy",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"61411",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Nik Lentz",
+            "event_name":"UFC on Versus 4",
+            "event_subname":"Barry vs. Kongo",
+            "event_date":"2011-06-26",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Pennsylvania",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":3,
+            "record_before_bout":"14-1-0",
+            "record_before_bout_opponent":"21-3-2",
+            "betting_odds":"-160",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Prelims",
+            "referee":"Chip Snider",
+            "rematch_series":null,
+            "weigh_in_lb":153.8,
+            "weigh_in_kg":69.76,
+            "weigh_in_formatted":"153.8 lbs (69.8 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"No Contest",
+            "finishing_method":null,
+            "finishing_move":"Illegal Knee",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":2,
+            "final_round_time":"1:48",
+            "total_fight_time":"6:48",
+            "disputed":false,
+            "fight_of_the_night":true,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$50,000 Fight/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"8813",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"622",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/30755-ufc-on-versus-4-nik-the-carnie-lentz-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/ufc-on-versus-4-marquardt-vs-johnson",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/nik-lentz-the-carnie",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"49315",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jim Miller",
+            "event_name":"UFC 124",
+            "event_subname":"St. Pierre vs. Koscheck 2",
+            "event_date":"2010-12-11",
+            "event_venue_location_country":"CA",
+            "event_country_flag_path":"flags/CA.gif",
+            "event_geo_coded_region_name":"Quebec",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":9,
+            "record_before_bout":"14-0-0",
+            "record_before_bout_opponent":"18-2-0",
+            "betting_odds":"-155",
+            "betting_odds_described":"Slight Favorite",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Dan Miragliotta",
+            "rematch_series":null,
+            "weigh_in_lb":153.5,
+            "weigh_in_kg":69.63,
+            "weigh_in_formatted":"153.5 lbs (69.6 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Loss",
+            "finishing_method":"Submission",
+            "finishing_move":"Kneebar",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"1:59",
+            "total_fight_time":"1:59",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":true,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               "6782":{
+                  "name":"Greatest Submission of All Time",
+                  "position":88,
+                  "url":"https://www.tapology.com/rankings/all-time-greatest-submissions-in-mma-and-ufc-history"
+               },
+               "2377":{
+                  "name":"Best MMA Submission of the Year 2010",
+                  "position":6,
+                  "url":"https://www.tapology.com/rankings/2010-greatest-submissions-in-mma-and-ufc"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7511",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"32",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/24706-ufc-124-jim-miller-vs-charles-do-bronx-oliveira",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/ufc-124-st-pierre-vs-koscheck-2",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/jim-miller",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"47646",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Efrain Escudero",
+            "event_name":"UFC Fight Night 22",
+            "event_subname":"Marquardt vs. Palhares",
+            "event_date":"2010-09-15",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"Texas",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Catchweight",
+            "scheduled_weight":"159 lbs (72.1 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Co-Main Event",
+            "number_at_event":9,
+            "record_before_bout":"13-0-0",
+            "record_before_bout_opponent":"13-1-0",
+            "betting_odds":"+130",
+            "betting_odds_described":"Slight Underdog",
+            "broadcast":"Aired Live on Main Card",
+            "referee":"Kerry Hatley",
+            "rematch_series":null,
+            "weigh_in_lb":154.0,
+            "weigh_in_kg":69.85,
+            "weigh_in_formatted":"154.0 lbs (69.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":3,
+            "final_round_time":"2:25",
+            "total_fight_time":"12:25",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":true,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$40,000 Sub/Night",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "2376":{
+                  "name":"Best MMA Submission of the Year 2010",
+                  "position":7,
+                  "url":"https://www.tapology.com/rankings/2010-greatest-submissions-in-mma-and-ufc"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"351",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"35",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/23868-ufc-fight-night-22-charles-do-bronx-oliveira-vs-efrain-hecho-en-mexico-escudero",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/ufc-fight-night-22",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/efrain-escudero-hecho-en-mexico",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"6302",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Darren Elkins",
+            "event_name":"UFC on Versus 2",
+            "event_subname":"Jones vs. Matyushenko",
+            "event_date":"2010-08-01",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"California",
+            "promotion_short_name_or_name":"Ultimate Fighting Championship",
+            "promotion_acronym":"UFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Preliminary Card",
+            "number_at_event":2,
+            "record_before_bout":"12-0-0",
+            "record_before_bout_opponent":"11-1-0",
+            "betting_odds":"-260",
+            "betting_odds_described":"Moderate Favorite",
+            "broadcast":"Dark Bout, Shown on Main Card",
+            "referee":"Herb Dean",
+            "rematch_series":null,
+            "weigh_in_lb":154.0,
+            "weigh_in_kg":69.85,
+            "weigh_in_formatted":"154.0 lbs (69.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Armbar",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"0:41",
+            "total_fight_time":"0:41",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":true,
+            "performance_of_the_night":false,
+            "pay_breakdown":"$52,000 ($6K Base, $6K Bonus, $40K Sub/Night)",
+            "injuries_sustained":null,
+            "ranking_items":{
+               "2528":{
+                  "name":"Best MMA Submission of the Year 2010",
+                  "position":31,
+                  "url":"https://www.tapology.com/rankings/2010-greatest-submissions-in-mma-and-ufc"
+               }
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"315",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"1449",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/3157-ufc-on-versus-2-charles-do-bronx-oliveira-vs-darren-the-damage-elkins",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/ufc-on-versus-2-jones-vs-matyushenko",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/darren-elkins",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45582",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Rosenildo Rocha",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2010-02-14",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Santa Catarina",
+            "promotion_short_name_or_name":"Warrior Challenge",
+            "promotion_acronym":"WC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1191/icon_bw/Warrior_Challenge-logo-square.jpg?1418745186",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"10-0-0",
+            "record_before_bout_opponent":"1-1-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":"1:21",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7289",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10431",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/1191-warrior-challenge-wc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10431-rosenildo-rocha-nil",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45577",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Diego Bataglia",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2010-02-14",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Santa Catarina",
+            "promotion_short_name_or_name":"Warrior Challenge",
+            "promotion_acronym":"WC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1191/icon_bw/Warrior_Challenge-logo-square.jpg?1418745186",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"10-0-0",
+            "record_before_bout_opponent":"3-4-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7289",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10430",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/1191-warrior-challenge-wc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10430-diego-bataglia",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45585",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Eduardo Pachu",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2009-09-26",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"9-0-0",
+            "record_before_bout_opponent":"8-2-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Decision",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":3,
+            "final_round_time":"5:00",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"5630",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10433",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10433-eduardo-pachu-edu",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45591",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Alexandre Bezerra",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2009-09-18",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"8-0-0",
+            "record_before_bout_opponent":"5-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":2,
+            "final_round_time":"1:11",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"2872",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10434",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/alexandre-bezerra-popo",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45599",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Dom Stanco",
+            "event_name":"Ring of Combat 24",
+            "event_subname":null,
+            "event_date":"2009-04-17",
+            "event_venue_location_country":"US",
+            "event_country_flag_path":"flags/US.gif",
+            "event_geo_coded_region_name":"New Jersey",
+            "promotion_short_name_or_name":"Ring of Combat",
+            "promotion_acronym":"ROC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/35/icon_bw/Lou-Neglias-Ring-of-Combat-ROC-logo-square.png?1526001686",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Catchweight",
+            "scheduled_weight":"159 lbs (72.1 kg)",
+            "title_fight":"ROC Vacant Catchweight Championship",
+            "title_status":"Vacant",
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":13,
+            "record_before_bout":"7-0-0",
+            "record_before_bout_opponent":"6-2-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":"Kevin Mulhall",
+            "rematch_series":null,
+            "weigh_in_lb":158.5,
+            "weigh_in_kg":71.89,
+            "weigh_in_formatted":"158.5 lbs (71.9 kgs)",
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Rear Naked Choke",
+            "round_structure":"5-5-5",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":"3:33",
+            "total_fight_time":"3:33",
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"3282",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10436",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/22845-ring-of-combat-24-charles-do-bronx-oliveira-vs-dom-stanco",
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/3282-ring-of-combat-24",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10436-dom-stanco",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45613",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Carlos Soares",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2009-03-21",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Rio de Janeiro",
+            "promotion_short_name_or_name":"Jungle Fight",
+            "promotion_acronym":"JFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/151/icon_bw/Jungle-Fight-Championship-FC-MMA-logo-square.jpg?1332472014",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"6-0-0",
+            "record_before_bout_opponent":"0-1-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":"2:48",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7294",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10438",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/151-jungle-fight-championship-jfc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10438-carlos-soares",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45627",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Daniel Fernandes",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-12-29",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"4-0-0",
+            "record_before_bout_opponent":"0-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":null,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7296",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10443",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10443-daniel-fernandes",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45619",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Elieni Silva",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-12-29",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"4-0-0",
+            "record_before_bout_opponent":"3-2-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":2,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7296",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"4956",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/4956-eliene-silva-pit",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45633",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Mehdi Baghdad",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-12-13",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"3-0-0",
+            "record_before_bout_opponent":"0-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7298",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10444",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10444-mehdi-baghdad",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45647",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Jakson Pontes",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-03-15",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Predador FC",
+            "promotion_acronym":"PFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/375/icon_bw/Predador-Fight-Championship-PFC-logo-square.jpg?1350440383",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"0-0-0",
+            "record_before_bout_opponent":"1-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":"2:11",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7299",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10449",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/375-predador-fight-championship-pfc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10449-jackson-pontes-araujo",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45643",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Viscardi Andrade",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-03-15",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Predador FC",
+            "promotion_acronym":"PFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/375/icon_bw/Predador-Fight-Championship-PFC-logo-square.jpg?1350440383",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"0-0-0",
+            "record_before_bout_opponent":"2-1-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":2,
+            "final_round_time":"2:47",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7299",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"10447",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/375-predador-fight-championship-pfc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/10447-viscardi-andrade",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"45635",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Diego Braga",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2008-03-15",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Sao Paulo",
+            "promotion_short_name_or_name":"Predador FC",
+            "promotion_acronym":"PFC",
+            "promotion_logo_square_path":"https://images.tapology.com/logo_squares/375/icon_bw/Predador-Fight-Championship-PFC-logo-square.jpg?1350440383",
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":null,
+            "scheduled_weight":null,
+            "title_fight":null,
+            "title_status":null,
+            "on_site":false,
+            "sport":"MMA",
+            "amateur":false,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":null,
+            "number_at_event":null,
+            "record_before_bout":"0-0-0",
+            "record_before_bout_opponent":"5-4-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"KO/TKO",
+            "finishing_move":null,
+            "round_structure":null,
+            "number_of_rounds":null,
+            "final_round":1,
+            "final_round_time":"2:30",
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Pro"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"7299",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"6581",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":null,
+            "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/375-predador-fight-championship-pfc",
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/6581-diego-braga",
+            "disputes_url":null
+         }
+      },
+      {
+         "id":"1139231",
+         "type":"fighter_bout",
+         "attributes":{
+            "opponent_fighter_name":"Rui Machado",
+            "event_name":null,
+            "event_subname":null,
+            "event_date":"2007-11-03",
+            "event_venue_location_country":"BR",
+            "event_country_flag_path":"flags/BR.gif",
+            "event_geo_coded_region_name":"Rio de Janeiro",
+            "promotion_short_name_or_name":null,
+            "promotion_acronym":null,
+            "promotion_logo_square_path":null,
+            "status":"confirmed",
+            "cancellation_reason":null,
+            "weight_class":"Lightweight",
+            "scheduled_weight":"155 lbs (70.3 kg)",
+            "title_fight":null,
+            "title_status":null,
+            "on_site":true,
+            "sport":"MMA",
+            "amateur":true,
+            "exhibition":false,
+            "record_ineligible":false,
+            "billing":"Main Card",
+            "number_at_event":null,
+            "record_before_bout":"0-0-0",
+            "record_before_bout_opponent":"0-0-0",
+            "betting_odds":null,
+            "betting_odds_described":null,
+            "broadcast":null,
+            "referee":null,
+            "rematch_series":null,
+            "weigh_in_lb":null,
+            "weigh_in_kg":null,
+            "weigh_in_formatted":null,
+            "weigh_in_fight_day_lb":null,
+            "weigh_in_fight_day_kg":null,
+            "weigh_in_fight_day_formatted":null,
+            "weight_gain_formatted":null,
+            "result_description":"Win",
+            "finishing_method":"Submission",
+            "finishing_move":"Armbar",
+            "round_structure":"3-3-3",
+            "number_of_rounds":3,
+            "final_round":1,
+            "final_round_time":null,
+            "total_fight_time":null,
+            "disputed":false,
+            "fight_of_the_night":false,
+            "knockout_of_the_night":false,
+            "submission_of_the_night":false,
+            "performance_of_the_night":false,
+            "pay_breakdown":null,
+            "injuries_sustained":null,
+            "ranking_items":{
+               
+            },
+            "result_status":null,
+            "division":"Amateur"
+         },
+         "relationships":{
+            "fighter":{
+               "data":{
+                  "id":"1613",
+                  "type":"fighter"
+               }
+            },
+            "event":{
+               "data":{
+                  "id":"79203",
+                  "type":"event"
+               }
+            },
+            "opponent_fighter":{
+               "data":{
+                  "id":"294275",
+                  "type":"fighter"
+               }
+            }
+         },
+         "links":{
+            "bout_url":"https://www.tapology.com/fightcenter/bouts/570524-circuito-nacional-de-vale-tudo-amador-charles-do-bronx-oliveira-vs-rui-pitbull-machado",
+            "event_or_promotion_url":null,
+            "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/294275-rui-machado-pitbull",
+            "disputes_url":null
+         }
+      }
+   ]
+}

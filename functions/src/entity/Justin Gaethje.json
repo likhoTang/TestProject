@@ -1,0 +1,3595 @@
+{
+    "data":{
+       "id":"16421",
+       "type":"fighter",
+       "attributes":{
+          "name":"Justin \"The Highlight\" Gaethje",
+          "first_name":"Justin",
+          "last_name":"Gaethje",
+          "middle_name":null,
+          "nickname":"The Highlight",
+          "nickname_position":"middle",
+          "given_name":null,
+          "short_name":"Justin Gaethje",
+          "nationality":"US",
+          "nationality_country":"United States",
+          "current_location":"Greeley, Colorado",
+          "current_location_country":"US",
+          "current_location_state":"CO",
+          "current_location_city":"Greeley",
+          "current_location_lng":-104.709,
+          "current_location_lat":40.4233,
+          "birth_location":"Safford, Arizona, United States",
+          "date_of_birth":"1988-11-14",
+          "date_of_death":null,
+          "age_in_years":33,
+          "gender":"Male",
+          "reach_in_cm":177.8,
+          "reach_in_inches":70.0,
+          "reach_formatted":"70.0\" (178cm)",
+          "height_in_cm":181.0,
+          "height_in_inches":71.3,
+          "height_formatted":"5'11\" (181cm)",
+          "current_weight_class":"Lightweight",
+          "twitter_url":"https://www.twitter.com/justin_gaethje",
+          "facebook_url":"https://www.facebook.com/gaethje",
+          "instagram_url":"https://instagram.com/justin_gaethje/",
+          "wikipedia_url":"http://en.wikipedia.org/wiki/Justin_Gaethje",
+          "sherdog_url":"http://www.sherdog.com/fighter/justin-gaethje-46648",
+          "mma_com_url":"https://fighters.mixedmartialarts.com/justin-gaethje:8069e3a2362893f8",
+          "promoter_url":"https://www.ufc.com/athlete/justin-gaethje",
+          "ufc_stats_url":"http://www.ufcstats.com/fighter-details/9e8f6c728eb01124",
+          "odds_url":"https://www.bestfightodds.com/fighters/justin-gaethje-3964",
+          "pro_wins":23,
+          "pro_losses":3,
+          "pro_draws":0,
+          "pro_no_contests":0,
+          "amateur_wins":0,
+          "amateur_losses":0,
+          "amateur_draws":0,
+          "amateur_no_contests":0,
+          "has_valid_chart_bouts?":true,
+          "stats":{
+             "overall":{
+                "pro_win":{
+                   "tko":18,
+                   "sub":2,
+                   "dec":3,
+                   "dis":0
+                },
+                "pro_loss":{
+                   "tko":2,
+                   "sub":1,
+                   "dec":0,
+                   "dis":0
+                },
+                "amateur_win":{
+                   "tko":0,
+                   "sub":0,
+                   "dec":0,
+                   "dis":0
+                },
+                "amateur_loss":{
+                   "tko":0,
+                   "sub":0,
+                   "dec":0,
+                   "dis":0
+                }
+             },
+             "promotion":{
+                "Ultimate Fighting Championship":{
+                   "acronym":"UFC",
+                   "major":true,
+                   "regional_rankings_tier":4,
+                   "pro_win":6,
+                   "pro_loss":3,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0,
+                   "fotn_awards":6,
+                   "kotn_awards":0,
+                   "sotn_awards":0,
+                   "potn_awards":4
+                },
+                "World Series of Fighting":{
+                   "acronym":"WSOF",
+                   "major":true,
+                   "regional_rankings_tier":3,
+                   "pro_win":10,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0,
+                   "fotn_awards":0,
+                   "kotn_awards":0,
+                   "sotn_awards":0,
+                   "potn_awards":0
+                },
+                "Rage in the Cage":{
+                   "acronym":"RITC",
+                   "major":false,
+                   "regional_rankings_tier":0,
+                   "pro_win":3,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0,
+                   "fotn_awards":0,
+                   "kotn_awards":0,
+                   "sotn_awards":0,
+                   "potn_awards":0
+                },
+                "Ring of Fire":{
+                   "acronym":"ROF",
+                   "major":false,
+                   "regional_rankings_tier":0,
+                   "pro_win":3,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0,
+                   "fotn_awards":0,
+                   "kotn_awards":0,
+                   "sotn_awards":0,
+                   "potn_awards":0
+                }
+             },
+             "tier":{
+                "majors":{
+                   "pro_win":16,
+                   "pro_loss":3,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "minors":{
+                   "pro_win":7,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                }
+             },
+             "year":{
+                "2021":{
+                   "pro_win":1,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2020":{
+                   "pro_win":1,
+                   "pro_loss":1,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2019":{
+                   "pro_win":2,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2018":{
+                   "pro_win":1,
+                   "pro_loss":1,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2017":{
+                   "pro_win":1,
+                   "pro_loss":1,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2016":{
+                   "pro_win":2,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2015":{
+                   "pro_win":2,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2014":{
+                   "pro_win":3,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2013":{
+                   "pro_win":3,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2012":{
+                   "pro_win":4,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                },
+                "2011":{
+                   "pro_win":3,
+                   "pro_loss":0,
+                   "pro_draw":0,
+                   "pro_no_contest":0,
+                   "amateur_win":0,
+                   "amateur_loss":0,
+                   "amateur_draw":0,
+                   "amateur_no_contest":0
+                }
+             }
+          }
+       },
+       "relationships":{
+          "fighter_bouts":{
+             "data":[
+                {
+                   "id":"1259260",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"1177717",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"179854",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"1027662",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"1009864",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"994154",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"992376",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"887118",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"812854",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"812790",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"692029",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"747477",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"654730",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"619021",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"575019",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"536257",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"479708",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"557621",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"418233",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"742237",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"187522",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"357390",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"304460",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"326200",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"239541",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"238951",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"266519",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"179858",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"179856",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"242615",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"170578",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"218109",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"109237",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"78001",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"83228",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"73353",
+                   "type":"fighter_bout"
+                },
+                {
+                   "id":"71806",
+                   "type":"fighter_bout"
+                }
+             ]
+          }
+       },
+       "links":{
+          "url":"https://www.tapology.com/fightcenter/fighters/16421-justin-gaethje"
+       }
+    },
+    "included":[
+       {
+          "id":"1259260",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Charles Oliveira",
+             "event_name":"UFC 274",
+             "event_subname":"Oliveira vs. Gaethje",
+             "event_date":"2022-05-07",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"UFC Lightweight Championship",
+             "title_status":"Challenger",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":15,
+             "record_before_bout":"23-3-0",
+             "record_before_bout_opponent":"32-8-0",
+             "betting_odds":"+140",
+             "betting_odds_described":"Slight Underdog",
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"85253",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"1613",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/630542-ufc-274-charles-do-bronx-oliveira-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/85253-ufc-274",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/charles-oliveira-do-bronx",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"1177717",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Michael Chandler",
+             "event_name":"UFC 268",
+             "event_subname":"Usman vs. Covington 2",
+             "event_date":"2021-11-06",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"New York",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":10,
+             "record_before_bout":"22-3-0",
+             "record_before_bout_opponent":"22-6-0",
+             "betting_odds":"-220",
+             "betting_odds_described":"Moderate Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Mike Beltran",
+             "rematch_series":null,
+             "weigh_in_lb":155.6,
+             "weigh_in_kg":70.58,
+             "weigh_in_formatted":"155.6 lbs (70.6 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"Decision",
+             "finishing_move":"Unanimous",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":3,
+             "final_round_time":"5:00",
+             "total_fight_time":"15:00",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$50,000 Fight/Night",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "5821742":{
+                   "name":"Best MMA Fight of the Year for 2021",
+                   "position":1,
+                   "url":"https://www.tapology.com/rankings/4152-2021-mma-fights-of-the-year"
+                },
+                "5822249":{
+                   "name":"Greatest Lightweight MMA Fight of All Time",
+                   "position":16,
+                   "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"81402",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"923",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/589768-ufc-268-justin-the-highlight-gaethje-vs-iron-michael-chandler",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/81402-ufc-268-usman-vs-covington-2",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/mike-chandler",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"1027662",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Khabib Nurmagomedov",
+             "event_name":"UFC 254",
+             "event_subname":"Khabib vs. Gaethje",
+             "event_date":"2020-10-24",
+             "event_venue_location_country":"AE",
+             "event_country_flag_path":"flags/AE.gif",
+             "event_geo_coded_region_name":"United Arab Emirates",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"UFC Lightweight Championship",
+             "title_status":"Interim Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":12,
+             "record_before_bout":"22-2-0",
+             "record_before_bout_opponent":"28-0-0",
+             "betting_odds":"+225",
+             "betting_odds_described":"Moderate Underdog",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Jason Herzog",
+             "rematch_series":null,
+             "weigh_in_lb":155.0,
+             "weigh_in_kg":70.31,
+             "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Loss",
+             "finishing_method":"Submission",
+             "finishing_move":"Triangle Choke",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":2,
+             "final_round_time":"1:34",
+             "total_fight_time":"6:34",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":true,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                "5338881":{
+                   "name":"Best MMA Submission of the Year 2020",
+                   "position":3,
+                   "url":"https://www.tapology.com/rankings/3817-2020-greatest-mma-submissions"
+                },
+                "5338876":{
+                   "name":"Best MMA Fight of the Year for 2020",
+                   "position":37,
+                   "url":"https://www.tapology.com/rankings/3815-2020-mma-fights-of-the-year"
+                },
+                "5345878":{
+                   "name":"Greatest Submission of All Time",
+                   "position":50,
+                   "url":"https://www.tapology.com/rankings/all-time-greatest-submissions-in-mma-and-ufc-history"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"70869",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"18536",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/514739-ufc-255-khabib-the-eagle-nurmagomedov-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/70869-ufc-255",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/18536-khabib-nurmagomedov",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"994154",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Tony Ferguson",
+             "event_name":"UFC 249",
+             "event_subname":"Ferguson vs. Gaethje",
+             "event_date":"2020-05-09",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"UFC Interim Lightweight Championship",
+             "title_status":"Vacant",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":11,
+             "record_before_bout":"21-2-0",
+             "record_before_bout_opponent":"25-3-0",
+             "betting_odds":"+180",
+             "betting_odds_described":"Slight Underdog",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Herb Dean",
+             "rematch_series":null,
+             "weigh_in_lb":155.0,
+             "weigh_in_kg":70.31,
+             "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":5,
+             "final_round_time":"3:39",
+             "total_fight_time":"23:39",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":true,
+             "pay_breakdown":"$350,000 ($250K Base, $50K Fight/Night, $50K Perf/Night)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "5242077":{
+                   "name":"Best MMA Knockout of the Year 2020",
+                   "position":18,
+                   "url":"https://www.tapology.com/rankings/3816-2020-greatest-mma-knockouts"
+                },
+                "5242074":{
+                   "name":"Best MMA Fight of the Year for 2020",
+                   "position":5,
+                   "url":"https://www.tapology.com/rankings/3815-2020-mma-fights-of-the-year"
+                },
+                "5242169":{
+                   "name":"Greatest Lightweight MMA Fight of All Time",
+                   "position":29,
+                   "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"66312",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"4886",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/497985-ufc-250-tony-el-cucuy-ferguson-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/66312-ufc-250",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/tony-ferguson-el-cucuy",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"992376",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Tony Ferguson",
+             "event_name":"UFC 249",
+             "event_subname":"Ferguson vs. Gaethje (cancelled)",
+             "event_date":"2020-04-18",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"California",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"cancelled",
+             "cancellation_reason":"Event Cancelled due to Coronavirus",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"UFC Interim Lightweight Championship",
+             "title_status":"Vacant",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":12,
+             "record_before_bout":"21-2-0",
+             "record_before_bout_opponent":"25-3-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"64603",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"4886",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/497096-ufc-249-tony-el-cucuy-ferguson-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/64603-ufc-249",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/tony-ferguson-el-cucuy",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"887118",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Donald Cerrone",
+             "event_name":"UFC on ESPN+ 16",
+             "event_subname":"Cowboy vs. Gaethje",
+             "event_date":"2019-09-14",
+             "event_venue_location_country":"CA",
+             "event_country_flag_path":"flags/CA.gif",
+             "event_geo_coded_region_name":"British Columbia",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":12,
+             "record_before_bout":"20-2-0",
+             "record_before_bout_opponent":"36-12-0",
+             "betting_odds":"-175",
+             "betting_odds_described":"Slight Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Jerin Valel",
+             "rematch_series":null,
+             "weigh_in_lb":155.5,
+             "weigh_in_kg":70.53,
+             "weigh_in_formatted":"155.5 lbs (70.5 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Hooks & Uppercuts",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":1,
+             "final_round_time":"4:18",
+             "total_fight_time":"4:18",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":true,
+             "pay_breakdown":"$50,000 Perf/Night",
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"60315",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"240",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/444463-ufc-on-espn-16-donald-cowboy-cerrone-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/60315-ufc-on-espn-16",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/donald-cerrone-cowboy",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"812854",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Edson Barboza",
+             "event_name":"UFC on ESPN 2",
+             "event_subname":"Barboza vs. Gaethje",
+             "event_date":"2019-03-30",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Pennsylvania",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":13,
+             "record_before_bout":"19-2-0",
+             "record_before_bout_opponent":"20-6-0",
+             "betting_odds":"+105",
+             "betting_odds_described":"Near Even",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Keith Peterson",
+             "rematch_series":null,
+             "weigh_in_lb":155.5,
+             "weigh_in_kg":70.53,
+             "weigh_in_formatted":"155.5 lbs (70.5 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Right Hook",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":1,
+             "final_round_time":"2:30",
+             "total_fight_time":"2:30",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$50,000 Fight/Night",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "4587315":{
+                   "name":"Best MMA Knockout of the Year 2019",
+                   "position":10,
+                   "url":"https://www.tapology.com/rankings/3582-2019-greatest-mma-knockouts"
+                },
+                "4587316":{
+                   "name":"Best MMA Fight of the Year for 2019",
+                   "position":17,
+                   "url":"https://www.tapology.com/rankings/3583-2019-mma-fights-of-the-year"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"56354",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"8384",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/407331-ufc-on-espn-2-edson-junior-barboza-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/56354-ufc-fight-night-150",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/edson-barboza-mendes-junior",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"747477",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"James Vick",
+             "event_name":"UFC Fight Night 135",
+             "event_subname":"Gaethje vs. Vick",
+             "event_date":"2018-08-25",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Nebraska",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":13,
+             "record_before_bout":"18-2-0",
+             "record_before_bout_opponent":"13-1-0",
+             "betting_odds":"+125",
+             "betting_odds_described":"Slight Underdog",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Kevin MacDonald",
+             "rematch_series":null,
+             "weigh_in_lb":156.0,
+             "weigh_in_kg":70.76,
+             "weigh_in_formatted":"156.0 lbs (70.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punch",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":1,
+             "final_round_time":"1:27",
+             "total_fight_time":"1:27",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":true,
+             "pay_breakdown":"$50,000 Perf/Night",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "4165258":{
+                   "name":"Best MMA Knockout of the Year 2018",
+                   "position":5,
+                   "url":"https://www.tapology.com/rankings/3364-2018-greatest-mma-knockouts"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"52393",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"16488",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/374642-ufc-fight-night-135-justin-the-highlight-gaethje-vs-james-the-texecutioner-vick",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/52393-ufc-fight-night",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16488-james-vick",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"742237",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Al Iaquinta",
+             "event_name":"UFC Fight Night 135",
+             "event_subname":"Gaethje vs. Vick",
+             "event_date":"2018-08-25",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Nebraska",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"cancelled",
+             "cancellation_reason":"Iaquinta Never Signed Bout Agreement",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":null,
+             "record_before_bout":"18-2-0",
+             "record_before_bout_opponent":"13-4-1",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"52393",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"15047",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/372022-ufc-fight-night-135-justin-the-highlight-gaethje-vs-ragin-al-iaquinta",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/52393-ufc-fight-night",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/15047-al-iaquinta",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"692029",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Dustin Poirier",
+             "event_name":"UFC on FOX 29",
+             "event_subname":"Poirier vs. Gaethje",
+             "event_date":"2018-04-14",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":14,
+             "record_before_bout":"18-1-0",
+             "record_before_bout_opponent":"22-5-0",
+             "betting_odds":"-105",
+             "betting_odds_described":"Near Even",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Herb Dean",
+             "rematch_series":null,
+             "weigh_in_lb":156.0,
+             "weigh_in_kg":70.76,
+             "weigh_in_formatted":"156.0 lbs (70.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Loss",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":4,
+             "final_round_time":"0:33",
+             "total_fight_time":"15:33",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$160,000 ($110K Base, $50K Fight/Night)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "3775663":{
+                   "name":"Best MMA Fight of the Year for 2018",
+                   "position":2,
+                   "url":"https://www.tapology.com/rankings/3363-2018-mma-fights-of-the-year"
+                },
+                "3795014":{
+                   "name":"Greatest Lightweight MMA Fight of All Time",
+                   "position":9,
+                   "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+                },
+                "3775986":{
+                   "name":"Best MMA Knockout of the Year 2018",
+                   "position":24,
+                   "url":"https://www.tapology.com/rankings/3364-2018-greatest-mma-knockouts"
+                },
+                "3775991":{
+                   "name":"Greatest Fight of All Time",
+                   "position":15,
+                   "url":"https://www.tapology.com/rankings/all-time-greatest-fights-in-mma-and-ufc-history"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"50283",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"9008",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/346914-ufc-on-fox-29-justin-the-highlight-gaethje-vs-dustin-the-diamond-poirier",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/50283-ufc-fight-night",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/dustin-poirier-the-diamond",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"654730",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Eddie Alvarez",
+             "event_name":"UFC 218",
+             "event_subname":"Holloway vs. Aldo 2",
+             "event_date":"2017-12-02",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Michigan",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":10,
+             "record_before_bout":"18-0-0",
+             "record_before_bout_opponent":"28-5-0",
+             "betting_odds":"-180",
+             "betting_odds_described":"Slight Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Herb Dean",
+             "rematch_series":null,
+             "weigh_in_lb":156.0,
+             "weigh_in_kg":70.76,
+             "weigh_in_formatted":"156.0 lbs (70.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Loss",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Knee & Punches",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":3,
+             "final_round_time":"3:59",
+             "total_fight_time":"13:59",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$50,000 Fight/Night",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "3590369":{
+                   "name":"Greatest Fight of All Time",
+                   "position":22,
+                   "url":"https://www.tapology.com/rankings/all-time-greatest-fights-in-mma-and-ufc-history"
+                },
+                "3587048":{
+                   "name":"Best MMA Knockout of the Year 2017",
+                   "position":26,
+                   "url":"https://www.tapology.com/rankings/3206-2017-greatest-mma-knockouts"
+                },
+                "3776030":{
+                   "name":"Greatest Lightweight MMA Fight of All Time",
+                   "position":3,
+                   "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+                },
+                "3587051":{
+                   "name":"Best MMA Fight of the Year for 2017",
+                   "position":2,
+                   "url":"https://www.tapology.com/rankings/3205-2017-mma-fights-of-the-year"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"47255",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"456",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/328264-ufc-218-eddie-the-underground-king-alvarez-vs-justin-the-highlight-gaethje",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/47255-ufc-218",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/eddie-alvarez-the-silent-assassin",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"619021",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Michael Johnson",
+             "event_name":"The Ultimate Fighter 25 Finale",
+             "event_subname":null,
+             "event_date":"2017-07-07",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Nevada",
+             "promotion_short_name_or_name":"Ultimate Fighting Championship",
+             "promotion_acronym":"UFC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1527187715",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":11,
+             "record_before_bout":"17-0-0",
+             "record_before_bout_opponent":"17-11-0",
+             "betting_odds":"+125",
+             "betting_odds_described":"Slight Underdog",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"John McCarthy",
+             "rematch_series":null,
+             "weigh_in_lb":155.75,
+             "weigh_in_kg":70.65,
+             "weigh_in_formatted":"155.8 lbs (70.6 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches & Knees",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":2,
+             "final_round_time":"4:48",
+             "total_fight_time":"9:48",
+             "disputed":false,
+             "fight_of_the_night":true,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":true,
+             "pay_breakdown":"$300,000 ($100K Base, $100K Bonus, $50K Fight/Night, $50K Perf/Night)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "3302638":{
+                   "name":"Greatest Fight of All Time",
+                   "position":16,
+                   "url":"https://www.tapology.com/rankings/all-time-greatest-fights-in-mma-and-ufc-history"
+                },
+                "3303530":{
+                   "name":"Greatest Lightweight MMA Fight of All Time",
+                   "position":6,
+                   "url":"https://www.tapology.com/rankings/all-time-top-ten-best-lightweight-mma-fights-155-pounds"
+                },
+                "3302640":{
+                   "name":"Best MMA Fight of the Year for 2017",
+                   "position":1,
+                   "url":"https://www.tapology.com/rankings/3205-2017-mma-fights-of-the-year"
+                },
+                "3803174":{
+                   "name":"Greatest Comeback of All Time",
+                   "position":36,
+                   "url":"https://www.tapology.com/rankings/37-all-time-greatest-mma-comebacks"
+                },
+                "3302641":{
+                   "name":"Best MMA Knockout of the Year 2017",
+                   "position":42,
+                   "url":"https://www.tapology.com/rankings/3206-2017-greatest-mma-knockouts"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"44082",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"10785",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/310410-the-ultimate-fighter-25-finale-justin-the-highlight-gaethje-vs-michael-the-menace-johnson",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/44082-the-ultimate-fighter-25-finale",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/michael-johnson-the-menace",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"575019",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Luiz Firmino",
+             "event_name":"WSOF 34",
+             "event_subname":"Gaethje vs. Firmino",
+             "event_date":"2016-12-31",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"New York",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":10,
+             "record_before_bout":"16-0-0",
+             "record_before_bout_opponent":"19-7-0",
+             "betting_odds":"-485",
+             "betting_odds_described":"Heavy Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Dan Miragliotta",
+             "rematch_series":null,
+             "weigh_in_lb":154.8,
+             "weigh_in_kg":70.22,
+             "weigh_in_formatted":"154.8 lbs (70.2 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Doctor Stoppage (Swollen Eye)",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":3,
+             "final_round_time":"5:00",
+             "total_fight_time":"15:00",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                "3020014":{
+                   "name":"Best MMA Fight of the Year for 2016",
+                   "position":34,
+                   "url":"https://www.tapology.com/rankings/3039-2016-mma-fights-of-the-year"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"38070",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"828",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/288408-wsof-34-justin-the-highlight-gaethje-vs-luiz-buscape-firmino",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/38070-wsof-36",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/luiz-firmino-buscape",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"557621",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"João Zeferino",
+             "event_name":"WSOF 34",
+             "event_subname":"Gaethje vs. Firmino",
+             "event_date":"2016-12-31",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"New York",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"cancelled",
+             "cancellation_reason":"Zeferino Injury",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":null,
+             "record_before_bout":"16-0-0",
+             "record_before_bout_opponent":"21-8-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"38070",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"16200",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/279709-wsof-34-justin-the-highlight-gaethje-vs-joo-the-brazilian-samurai-zeferino",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/38070-wsof-36",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16200-joao-zeferino-the-brazilian-samurai",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"536257",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Ozzy Dugulubgov",
+             "event_name":"WSOF 33",
+             "event_subname":"Branch vs. Magalhaes",
+             "event_date":"2016-10-07",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Missouri",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"cancelled",
+             "cancellation_reason":"Dugulubgov Withdrew",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":11,
+             "record_before_bout":"16-0-0",
+             "record_before_bout_opponent":"8-2-0",
+             "betting_odds":"-290",
+             "betting_odds_described":"Moderate Favorite",
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":154.6,
+             "weigh_in_kg":70.13,
+             "weigh_in_formatted":"154.6 lbs (70.1 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"38029",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"16465",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/269026-wsof-33-justin-the-highlight-gaethje-vs-ozzy-dugulubgov",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/38029-wsof-33",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16465-ozzy-dugulubgov",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"479708",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Brian Foster",
+             "event_name":"WSOF 29",
+             "event_subname":"Gaethje vs. Foster",
+             "event_date":"2016-03-12",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":12,
+             "record_before_bout":"15-0-0",
+             "record_before_bout_opponent":"26-8-0",
+             "betting_odds":"-315",
+             "betting_odds_described":"Moderate Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Tom Johnson",
+             "rematch_series":null,
+             "weigh_in_lb":155.0,
+             "weigh_in_kg":70.31,
+             "weigh_in_formatted":"155.0 lbs (70.3 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Leg Kicks",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":1,
+             "final_round_time":"1:43",
+             "total_fight_time":"1:43",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"37736",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"417",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/240702-wsof-29-justin-the-highlight-gaethje-vs-brian-foster",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/37736-wsof-29-gaethje-vs-foster",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/brian-foster",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"418233",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Luis Palomino",
+             "event_name":"WSOF 23",
+             "event_subname":"Gaethje vs. Palomino 2",
+             "event_date":"2015-09-18",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":11,
+             "record_before_bout":"14-0-0",
+             "record_before_bout_opponent":"23-10-0",
+             "betting_odds":"-925",
+             "betting_odds_described":"Huge Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Ryan Brueggeman",
+             "rematch_series":"II",
+             "weigh_in_lb":154.7,
+             "weigh_in_kg":70.17,
+             "weigh_in_formatted":"154.7 lbs (70.2 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":2,
+             "final_round_time":"4:40",
+             "total_fight_time":"9:40",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$100,000 ($50K Base, $50K Bonus)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"34025",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"1714",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/209915-wsof-23-justin-the-highlight-gaethje-vs-luis-baboon-palomino-ii",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/34025-wsof-23-gaethje-vs-palomino-2",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/luis-palomino-baboon",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"357390",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Luis Palomino",
+             "event_name":"WSOF 19",
+             "event_subname":"Gaethje vs. Palomino",
+             "event_date":"2015-03-28",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":10,
+             "record_before_bout":"13-0-0",
+             "record_before_bout_opponent":"23-9-0",
+             "betting_odds":"-450",
+             "betting_odds_described":"Heavy Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Al Guinee",
+             "rematch_series":null,
+             "weigh_in_lb":154.2,
+             "weigh_in_kg":69.94,
+             "weigh_in_formatted":"154.2 lbs (69.9 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Leg Kick & Punches",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":3,
+             "final_round_time":"3:57",
+             "total_fight_time":"13:57",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$60,000 ($30K Base, $30K Bonus)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "1508138":{
+                   "name":"Best MMA Fight of the Year for 2015",
+                   "position":7,
+                   "url":"https://www.tapology.com/rankings/2643-2015-mma-fights-of-the-year"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"29324",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"1714",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/178784-wsof-19-justin-the-highlight-gaethje-vs-luis-baboon-palomino",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/29324-wsof-19-gaethje-vs-palomino",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/luis-palomino-baboon",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"326200",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Melvin Guillard",
+             "event_name":"WSOF 15",
+             "event_subname":"Branch vs. Okami",
+             "event_date":"2014-11-15",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Catchweight",
+             "scheduled_weight":"159 lbs (72.1 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Co-Main Event",
+             "number_at_event":10,
+             "record_before_bout":"12-0-0",
+             "record_before_bout_opponent":"32-13-2",
+             "betting_odds":"-190",
+             "betting_odds_described":"Slight Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Andrew Glenn",
+             "rematch_series":null,
+             "weigh_in_lb":154.8,
+             "weigh_in_kg":70.22,
+             "weigh_in_formatted":"154.8 lbs (70.2 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"Decision",
+             "finishing_move":"Split",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":3,
+             "final_round_time":"5:00",
+             "total_fight_time":"15:00",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"25715",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"226",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/163189-wsof-15-justin-the-highlight-gaethje-vs-melvin-the-young-assassin-guillard",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/25715-wsof-15",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/melvin-guillard-the-young-assassin",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"266519",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Nick Newell",
+             "event_name":"WSOF 11",
+             "event_subname":"Gaethje vs. Newell",
+             "event_date":"2014-07-05",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Lightweight Championship",
+             "title_status":"Champion",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":8,
+             "record_before_bout":"11-0-0",
+             "record_before_bout_opponent":"11-0-0",
+             "betting_odds":"-410",
+             "betting_odds_described":"Heavy Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Telis Assimenios",
+             "rematch_series":null,
+             "weigh_in_lb":154.8,
+             "weigh_in_kg":70.22,
+             "weigh_in_formatted":"154.8 lbs (70.2 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punch",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":2,
+             "final_round_time":"3:09",
+             "total_fight_time":"8:09",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"23637",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"12517",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/133348-wsof-11-justin-the-highlight-gaethje-vs-notorious-nick-newell",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/23637-wsof-11-palhares-vs-fitch",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/nick-newell-notorious",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"242615",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Richard Patishnock",
+             "event_name":"WSOF 8",
+             "event_subname":"Gaethje vs. Patishnock",
+             "event_date":"2014-01-18",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Vacant Lightweight Championship",
+             "title_status":"Vacant",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":10,
+             "record_before_bout":"10-0-0",
+             "record_before_bout_opponent":"6-1-0",
+             "betting_odds":"-920",
+             "betting_odds_described":"Huge Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Troy Waugh",
+             "rematch_series":null,
+             "weigh_in_lb":154.6,
+             "weigh_in_kg":70.13,
+             "weigh_in_formatted":"154.6 lbs (70.1 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches",
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":1,
+             "final_round_time":"1:09",
+             "total_fight_time":"1:09",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$30,000 ($15K Base, $15K Bonus)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                "48548":{
+                   "name":"Best MMA Fight of the Year for 2014",
+                   "position":44,
+                   "url":"https://www.tapology.com/rankings/1351-2014-mma-fights-of-the-year"
+                }
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"21575",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"15775",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/121396-wsof-8-justin-the-highlight-gaethje-vs-richard-patishnock",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/21575-wsof-8-johnson-vs-kyle",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/15775-richard-patishnock",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"239541",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Lewis Gonzalez",
+             "event_name":"WSOF 8",
+             "event_subname":"Gaethje vs. Patishnock",
+             "event_date":"2014-01-18",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"cancelled",
+             "cancellation_reason":"Gonzalez Injury",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Vacant Lightweight Championship",
+             "title_status":"Vacant",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":9,
+             "record_before_bout":"10-0-0",
+             "record_before_bout_opponent":"9-0-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"21575",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"26311",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/119859-wsof-8-justin-the-highlight-gaethje-vs-lethal-lewis-gonzalez",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/21575-wsof-8-johnson-vs-kyle",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/26311-lewis-gonzalez",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"238951",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Gesias Cavalcante",
+             "event_name":"WSOF 8",
+             "event_subname":"Gaethje vs. Patishnock",
+             "event_date":"2014-01-18",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"cancelled",
+             "cancellation_reason":"Cavalcante Injury",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":"WSOF Vacant Lightweight Championship",
+             "title_status":"Vacant",
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Event",
+             "number_at_event":null,
+             "record_before_bout":"10-0-0",
+             "record_before_bout_opponent":"18-7-1",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":"II",
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5-5-5",
+             "number_of_rounds":5,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"21575",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"245",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/119564-wsof-8-justin-the-highlight-gaethje-vs-gesias-jz-cavalcante-ii",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/21575-wsof-8-johnson-vs-kyle",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/gesias-cavalcante-jz",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"218109",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Dan Lauzon",
+             "event_name":"WSOF 6",
+             "event_subname":"Burkman vs. Carl",
+             "event_date":"2013-10-26",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Florida",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":7,
+             "record_before_bout":"9-0-0",
+             "record_before_bout_opponent":"17-4-0",
+             "betting_odds":"-305",
+             "betting_odds_described":"Moderate Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Jorge Alonso",
+             "rematch_series":null,
+             "weigh_in_lb":155.8,
+             "weigh_in_kg":70.67,
+             "weigh_in_formatted":"155.8 lbs (70.7 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punches",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":2,
+             "final_round_time":"1:40",
+             "total_fight_time":"6:40",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"20539",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"13",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/109143-wsof-6-justin-the-highlight-gaethje-vs-the-upgrade-dan-lauzon",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/20539-wsof-6-burkman-vs-carl",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/dan-lauzon-the-upgrade",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"187522",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Brian Cobb",
+             "event_name":"WSOF 3",
+             "event_subname":"Fitch vs. Burkman 2",
+             "event_date":"2013-06-14",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Nevada",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":6,
+             "record_before_bout":"8-0-0",
+             "record_before_bout_opponent":"20-7-0",
+             "betting_odds":"-300",
+             "betting_odds_described":"Moderate Favorite",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Steve Mazzagatti",
+             "rematch_series":null,
+             "weigh_in_lb":156.0,
+             "weigh_in_kg":70.76,
+             "weigh_in_formatted":"156.0 lbs (70.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"Submission",
+             "finishing_move":"Leg Kicks",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":3,
+             "final_round_time":"2:19",
+             "total_fight_time":"12:19",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":"$12,000 ($6K Base, $6K Bonus)",
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"18083",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"637",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/93843-wsof-3-justin-the-highlight-gaethje-vs-brian-the-bandit-cobb",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/18083-wsof-3",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/brian-cobb-the-bandit",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"170578",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Gesias Cavalcante",
+             "event_name":"WSOF 2",
+             "event_subname":"Arlovski vs. Johnson",
+             "event_date":"2013-03-23",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"New Jersey",
+             "promotion_short_name_or_name":"World Series of Fighting",
+             "promotion_acronym":"WSOF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/332/icon_bw/World_Series_of_Fighting-logo.jpg?1450127909",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":8,
+             "record_before_bout":"7-0-0",
+             "record_before_bout_opponent":"17-6-1",
+             "betting_odds":"+120",
+             "betting_odds_described":"Near Even",
+             "broadcast":"Aired Live on Main Card",
+             "referee":"Keith Peterson",
+             "rematch_series":null,
+             "weigh_in_lb":155.6,
+             "weigh_in_kg":70.58,
+             "weigh_in_formatted":"155.6 lbs (70.6 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Doctor Stoppage (Cut)",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":1,
+             "final_round_time":"2:27",
+             "total_fight_time":"2:27",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"16662",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"245",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/85364-wsof-2-justin-the-highlight-gaethje-vs-gesias-jz-cavalcante",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/16662-wsof-2",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/gesias-cavalcante-jz",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"179854",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Adrian Valdez",
+             "event_name":null,
+             "event_subname":null,
+             "event_date":"2012-11-16",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"Rage in the Cage",
+             "promotion_acronym":"RITC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/234/icon_bw/Rage%20in%20the%20Cage-logo-square.jpeg?1339617602",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":null,
+             "scheduled_weight":null,
+             "title_fight":null,
+             "title_status":null,
+             "on_site":false,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":null,
+             "number_at_event":null,
+             "record_before_bout":"6-0-0",
+             "record_before_bout_opponent":"1-5-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":null,
+             "round_structure":null,
+             "number_of_rounds":null,
+             "final_round":2,
+             "final_round_time":"0:19",
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"17660",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"9441",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":null,
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/234-rage-in-the-cage-ritc",
+             "opponent_fighter_url":null,
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"179856",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Drew Fickett",
+             "event_name":null,
+             "event_subname":null,
+             "event_date":"2012-10-20",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"Rage in the Cage",
+             "promotion_acronym":"RITC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/234/icon_bw/Rage%20in%20the%20Cage-logo-square.jpeg?1339617602",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Catchweight",
+             "scheduled_weight":"165 lbs (74.8 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":null,
+             "record_before_bout":"5-0-0",
+             "record_before_bout_opponent":"42-18-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":165.0,
+             "weigh_in_kg":74.84,
+             "weigh_in_formatted":"165.0 lbs (74.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Punch",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":1,
+             "final_round_time":"0:12",
+             "total_fight_time":"0:12",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"17768",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"807",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/90008-ritc-163-justin-the-highlight-gaethje-vs-drew-the-master-fickett",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/234-rage-in-the-cage-ritc",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/drew-fickett-the-master",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"179858",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Sam Young",
+             "event_name":null,
+             "event_subname":null,
+             "event_date":"2012-09-29",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Arizona",
+             "promotion_short_name_or_name":"Rage in the Cage",
+             "promotion_acronym":"RITC",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/234/icon_bw/Rage%20in%20the%20Cage-logo-square.jpeg?1339617602",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":null,
+             "scheduled_weight":null,
+             "title_fight":null,
+             "title_status":null,
+             "on_site":false,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":null,
+             "number_at_event":null,
+             "record_before_bout":"4-0-0",
+             "record_before_bout_opponent":"0-0-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"Submission",
+             "finishing_move":null,
+             "round_structure":null,
+             "number_of_rounds":null,
+             "final_round":2,
+             "final_round_time":"1:58",
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"18299",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"44873",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":null,
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/promotions/234-rage-in-the-cage-ritc",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/44873-sam-young",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"109237",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Marcus Edwards",
+             "event_name":"ROF 43",
+             "event_subname":"Bad Blood",
+             "event_date":"2012-06-02",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":"Ring of Fire",
+             "promotion_acronym":"ROF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/21/icon_bw/Ring-of-Fire-MMA-logo.jpg?1324748787",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":10,
+             "record_before_bout":"3-0-0",
+             "record_before_bout_opponent":"0-0-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"Decision",
+             "finishing_move":"Unanimous",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":3,
+             "final_round_time":"5:00",
+             "total_fight_time":"15:00",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"13426",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"16756",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/54674-rof-43-justin-the-highlight-gaethje-vs-marcus-bad-intentions-edwards",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/13426-rof-43",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16756-marcus-edwards-bad-intentions",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"83228",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Donnie Bell",
+             "event_name":"ROF 42",
+             "event_subname":"Who's Next",
+             "event_date":"2011-12-17",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":"Ring of Fire",
+             "promotion_acronym":"ROF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/21/icon_bw/Ring-of-Fire-MMA-logo.jpg?1324748787",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":8,
+             "record_before_bout":"2-0-0",
+             "record_before_bout_opponent":"2-0-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Strikes",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":2,
+             "final_round_time":"2:57",
+             "total_fight_time":"7:57",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"11597",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"18774",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/41667-rof-42-justin-the-highlight-gaethje-vs-donnie-da-bomber-bell",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/11597-ring-of-fire-42-whos-next",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/18774-donnie-bell",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"78001",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Joe Kelso",
+             "event_name":null,
+             "event_subname":null,
+             "event_date":"2011-10-01",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":null,
+             "promotion_acronym":null,
+             "promotion_logo_square_path":null,
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":null,
+             "scheduled_weight":null,
+             "title_fight":null,
+             "title_status":null,
+             "on_site":false,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":null,
+             "number_at_event":null,
+             "record_before_bout":"1-0-0",
+             "record_before_bout_opponent":"1-6-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":null,
+             "round_structure":null,
+             "number_of_rounds":null,
+             "final_round":1,
+             "final_round_time":"4:32",
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"11044",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"15655",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":null,
+             "event_or_promotion_url":null,
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/15655-joe-kelso",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"73353",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Kevin Croom",
+             "event_name":"ROF 41",
+             "event_subname":"Bragging Rights!",
+             "event_date":"2011-08-20",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":"Ring of Fire",
+             "promotion_acronym":"ROF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/21/icon_bw/Ring-of-Fire-MMA-logo.jpg?1324748787",
+             "status":"confirmed",
+             "cancellation_reason":null,
+             "weight_class":"Catchweight",
+             "scheduled_weight":"159 lbs (72.1 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":5,
+             "record_before_bout":"0-0-0",
+             "record_before_bout_opponent":"4-2-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":158.2,
+             "weigh_in_kg":71.76,
+             "weigh_in_formatted":"158.2 lbs (71.8 kgs)",
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":"Win",
+             "finishing_method":"KO/TKO",
+             "finishing_move":"Slam",
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":1,
+             "final_round_time":"1:01",
+             "total_fight_time":"1:01",
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"10396",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"10476",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/36726-rof-41-justin-the-highlight-gaethje-vs-kevin-the-hard-hitting-hillbilly-croom",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/10396-ring-of-fire-41-bragging-rights",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/kevin-croom-the-kremlin",
+             "disputes_url":null
+          }
+       },
+       {
+          "id":"71806",
+          "type":"fighter_bout",
+          "attributes":{
+             "opponent_fighter_name":"Brad Foust",
+             "event_name":"ROF 41",
+             "event_subname":"Bragging Rights!",
+             "event_date":"2011-08-20",
+             "event_venue_location_country":"US",
+             "event_country_flag_path":"flags/US.gif",
+             "event_geo_coded_region_name":"Colorado",
+             "promotion_short_name_or_name":"Ring of Fire",
+             "promotion_acronym":"ROF",
+             "promotion_logo_square_path":"https://images.tapology.com/logo_squares/21/icon_bw/Ring-of-Fire-MMA-logo.jpg?1324748787",
+             "status":"cancelled",
+             "cancellation_reason":"Foust Withdrew",
+             "weight_class":"Lightweight",
+             "scheduled_weight":"155 lbs (70.3 kg)",
+             "title_fight":null,
+             "title_status":null,
+             "on_site":true,
+             "sport":"MMA",
+             "amateur":false,
+             "exhibition":false,
+             "record_ineligible":false,
+             "billing":"Main Card",
+             "number_at_event":null,
+             "record_before_bout":"0-0-0",
+             "record_before_bout_opponent":"0-0-0",
+             "betting_odds":null,
+             "betting_odds_described":null,
+             "broadcast":null,
+             "referee":null,
+             "rematch_series":null,
+             "weigh_in_lb":null,
+             "weigh_in_kg":null,
+             "weigh_in_formatted":null,
+             "weigh_in_fight_day_lb":null,
+             "weigh_in_fight_day_kg":null,
+             "weigh_in_fight_day_formatted":null,
+             "weight_gain_formatted":null,
+             "result_description":null,
+             "finishing_method":null,
+             "finishing_move":null,
+             "round_structure":"5-5-5",
+             "number_of_rounds":3,
+             "final_round":null,
+             "final_round_time":null,
+             "total_fight_time":null,
+             "disputed":false,
+             "fight_of_the_night":false,
+             "knockout_of_the_night":false,
+             "submission_of_the_night":false,
+             "performance_of_the_night":false,
+             "pay_breakdown":null,
+             "injuries_sustained":null,
+             "ranking_items":{
+                
+             },
+             "result_status":null,
+             "division":"Pro"
+          },
+          "relationships":{
+             "fighter":{
+                "data":{
+                   "id":"16421",
+                   "type":"fighter"
+                }
+             },
+             "event":{
+                "data":{
+                   "id":"10396",
+                   "type":"event"
+                }
+             },
+             "opponent_fighter":{
+                "data":{
+                   "id":"16422",
+                   "type":"fighter"
+                }
+             }
+          },
+          "links":{
+             "bout_url":"https://www.tapology.com/fightcenter/bouts/ring-of-fire-41-justin-gaethje-vs-brad-foust",
+             "event_or_promotion_url":"https://www.tapology.com/fightcenter/events/10396-ring-of-fire-41-bragging-rights",
+             "opponent_fighter_url":"https://www.tapology.com/fightcenter/fighters/16422-brad-foust",
+             "disputes_url":null
+          }
+       }
+    ]
+ }
