@@ -19,7 +19,11 @@ export async function getDataFromUrl(url: string) {
     const data = await axios.get(url)
         .then((result: AxiosResponse) => {
             return result.data
-        }).catch((err: AxiosError) => err);
+        }).catch((err: AxiosError) => {
+            console.error(err);
+            throw err
+        });
+
     return data
 }
 
