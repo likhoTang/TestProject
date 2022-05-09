@@ -139,7 +139,7 @@ function getfightHistory(rawData: any, tourNames: string): myDictionary {
             dec: 0,
             total: 0,
         },
-        noCcontest: {
+        noContest: {
             tko: 0,
             sub: 0,
             dec: 0,
@@ -188,15 +188,15 @@ function getfightHistory(rawData: any, tourNames: string): myDictionary {
             }
         }
         if (element.attributes.result_description == RESULT_NO_CONTEST) { //no Ccontest
-            result.noCcontest.total += 1
+            result.noContest.total += 1
             if (element.attributes.finishing_method == FINISHING_METHOD_KO) {
-                result.noCcontest.tko += 1
+                result.noContest.tko += 1
             }
             if (element.attributes.finishing_method == FINISHING_METHOD_SUB) {
-                result.noCcontest.sub += 1
+                result.noContest.sub += 1
             }
             if (element.attributes.finishing_method == FINISHING_METHOD_DEC) {
-                result.noCcontest.dec += 1
+                result.noContest.dec += 1
             }
         }
         if (element.attributes.pay_breakdown != null) {// bounse Times
