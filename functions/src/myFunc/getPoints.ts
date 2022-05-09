@@ -1,11 +1,11 @@
 import { FighterStats } from "../entity/FighterStats"
 import { InterestingPoints } from "../entity/InterestingPoints"
-import { ScheduledFight } from "../entity/scheduledFight"
+import { Fight } from "../entity/scheduledFight"
 
 export const HOME_STR = 'home'
 export const AWAY_STR = 'away'
 
-export function getInterestingPoints(scheduledFight: ScheduledFight, targetFighterStats: FighterStats, targetSide: string, anotherFighterStats: FighterStats): InterestingPoints {
+export function getInterestingPoints(scheduledFight: Fight, targetFighterStats: FighterStats, targetSide: string, anotherFighterStats: FighterStats): InterestingPoints {
     var interestingPoints: InterestingPoints = {
         name: targetFighterStats.name,
         details: []

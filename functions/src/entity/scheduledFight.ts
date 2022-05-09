@@ -1,4 +1,6 @@
-export interface ScheduledFight {
+import { Nullable } from "./types"
+
+export interface Fight {
     id: string
     eventName: string
     eventSubname: string
@@ -10,21 +12,21 @@ export interface ScheduledFight {
     weightClass: string
     home: {
         name: string
-        bettingOdds: string
+        bettingOdds: Nullable<string>
         underdog: boolean
         favorite: boolean
-        titleStatus: string
+        titleStatus: Nullable<string>
     },
     away: {
         name: string
-        bettingOdds: string
+        bettingOdds: Nullable<string>
         underdog: boolean
         favorite: boolean
-        titleStatus: string
+        titleStatus: Nullable<string>
     },
     result: {
-        home: string
-        away: string
-        finishingMethod: string
+        home: Nullable<string>
+        away: Nullable<string>
+        finishingMethod: Nullable<string>
     },
 }

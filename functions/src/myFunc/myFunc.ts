@@ -1,14 +1,14 @@
 import axios, { AxiosResponse, AxiosError } from 'axios';
 import { FieldStat, FighterStats, KoOrSubBY, Undefeated } from '../entity/FighterStats';
 import { myDictionary } from '../entity/myDictionary';
-import { ScheduledFight } from '../entity/scheduledFight'
+import { Fight } from '../entity/scheduledFight'
 
 const UNDERDOG_STR = 'Underdog';
 const FAVORITE_STR = 'Favorite';
 const mmaTourNames: string[] = ['UFC', 'ROC', 'JFC', 'WC', 'WSOF', 'overAll']
-const RESULT_WIN = "Win";
-const RESULT_LOSS = "Loss";
-const RESULT_NO_CONTEST = "No Contest"
+export const RESULT_WIN = "Win";
+export const RESULT_LOSS = "Loss";
+export const RESULT_NO_CONTEST = "No Contest"
 const CATCH_WEIGHT = 'Catchweight';
 const FINISHING_METHOD_KO = 'KO/TKO'
 const FINISHING_METHOD_SUB = 'Submission'
@@ -23,13 +23,13 @@ export async function getDataFromUrl(url: string) {
     return data
 }
 
-export function getScheduledFight(rawData1: any, rawData2: any): ScheduledFight {
+export function getScheduledFight(rawData1: any, rawData2: any): Fight {
     // scheduled Fight Data ->Home
     var sFDataHome = rawData1.included[0].attributes
     // scheduled Fight Data ->Away
     var sFDataAway = rawData2.included[0].attributes
 
-    var scheduledFight: ScheduledFight = {
+    var scheduledFight: Fight = {
         id: rawData1.included[0].id,
         eventName: sFDataHome.event_name,
         eventSubname: `${getFighterName(rawData1)} VS ${getFighterName(rawData2)}`,
@@ -63,18 +63,18 @@ export function getScheduledFight(rawData1: any, rawData2: any): ScheduledFight 
     return scheduledFight
 }
 
-function getFighterName(rawData: any): string {
+export function getFighterName(rawData: any): string {
     const fighterName = rawData.data.attributes.short_name
     return fighterName
 }
 
-function checkUnderdog(describe: String): boolean {
+export function checkUnderdog(describe: String): boolean {
     if (describe.includes(UNDERDOG_STR)) {
         return true
     }
     return false
 }
-function checkFavorite(describe: String): boolean {
+export function checkFavorite(describe: String): boolean {
     if (describe.includes(FAVORITE_STR)) {
         return true
     }

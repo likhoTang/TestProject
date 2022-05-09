@@ -1,4 +1,5 @@
 import { myDictionary } from '../entity/myDictionary'
+import { Nullable } from './types'
 
 export interface FighterStats {
     name: string
@@ -32,7 +33,7 @@ export interface FieldStat {
     loss: number
     total: number
 }
-type Nullable<T> = T | null;
+
 export interface Undefeated {
     undefeatedCount: number
     lastdefeatedBy: Nullable<string>
