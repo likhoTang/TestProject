@@ -14,12 +14,13 @@ exports.getScheduledFight = functions.https.onRequest(async (req, res) => {
 
     var fighterStatsHome = myFunc.getFighterStats(rawData1)
     var fighterStatsAway = myFunc.getFighterStats(rawData2)
-
+    var interestingPoint = {}
 
     var result = {
         scheduledFight: sheduledFight,
         homeStats: fighterStatsHome,
         awayStats: fighterStatsAway,
+        interestingPoints: interestingPoint,
     }
 
     res.status(200).json(result)
